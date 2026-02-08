@@ -64,7 +64,7 @@ At first, I almost despaired, thinking that a month of hard training in buoyancy
 
 So, only an extremely solid foundation of diving skills can prepare you to handle this kind of unpredictable environment.
 
-# Skills You Need to Become a Polar Diver
+# Skills You Need
 
 ## My Diving Background 
 
