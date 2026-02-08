@@ -1,6 +1,6 @@
 # Introduction
 
-Hello everyone, I'm Jialing Cai, a blackwater photographer from Chongqing, China. 
+Hello everyone, I'm **Jialing Cai**, a blackwater photographer from **Chongqing, China**. 
 
 Last November, I was selected as the 2026 Global Underwater Explorers (GUE) NextGen Scholar. GUE is a diving organization built on rigorous, high-standard training and deeply engaged in scientific exploration and marine conservation. I am honored to be the only scholarship recipient worldwide and the first from China. I'm currently receiving a full year of extremely generous support from GUE—including diving courses, equipment, and community resources that allow me to continuously refine my techniques, venture to places I once wouldn’t have dared to go, and document even more planktonic life.
 
