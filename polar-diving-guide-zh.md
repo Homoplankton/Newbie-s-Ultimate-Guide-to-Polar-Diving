@@ -61,7 +61,7 @@
 
 所以，只有非常非常扎实的功底，才能应对这种不按套路出牌的潜水环境。
 
-# 一个月速成极地潜水员，需要哪些技能
+# 需要什么技能！
 
 ## 我的潜水经历
 
@@ -145,7 +145,7 @@ GUE双瓶课跟极地潜水没有直接关联，却意外成了我最实用的�
 
 这项目标近在咫尺我却反向冲刺的迷之操作，成了我挥之不去的奇耻大辱。但凡我会点导航，也不至于在这种一辈子只去一次的地方，留下这么降智的遗憾。
 
-# 要带什么装备，以及我后悔没带的装备
+# 需要什么装备！
 
 船司提供的装备只提供**12L的钢瓶（H阀门，空气），配重带和铅块**，其它的东西都得自己带。
 
@@ -516,22 +516,22 @@ GUE双瓶课跟极地潜水没有直接关联，却意外成了我最实用的�
 
 ## 魔法套装
 
-干衣：国产Navyfel - Verdex Edition - Game Master
-底衣：国产Navyfel 420
-干手套：干衣自带
-手套打底：四元素 Xerotherm 
-袜套：四元素 Hotfoot Pro
-头套：Santi 7mm + Navyfel 6 mm (我两层叠穿)
-面镜：Cressi x 2 
-脚蹼：ScubaPro 负浮力Jetfins
-电脑表：Shearwater Perdix 
-一级头：ScubaPro MK25 x 2 
-二级头：ScubaPro S600 x 2 
-背飞：Halcyon Infinity 小号钢板 + 30L气囊
-象拔 + 线轮：Halcyon 
-搜索手电：Scubalamp RD95 
-气压表：Aquatec 气压表
-管线：干衣管，BC管，高压管，长喉管（主二级头），短喉管（备用二级头），短喉项圈
+- 干衣：国产Navyfel - Verdex Edition - Game Master
+- 底衣：国产Navyfel 420
+- 干手套：干衣自带
+- 手套打底：四元素 Xerotherm 
+- 袜套：四元素 Hotfoot Pro
+- 头套：Santi 7mm + Navyfel 6 mm (我两层叠穿)
+- 面镜：Cressi x 2 
+- 脚蹼：ScubaPro 负浮力Jetfins
+- 电脑表：Shearwater Perdix 
+- 一级头：ScubaPro MK25 x 2 
+- 二级头：ScubaPro S600 x 2 
+- 背飞：Halcyon Infinity 小号钢板 + 30L气囊
+- 象拔 + 线轮：Halcyon 
+- 搜索手电：Scubalamp RD95 
+- 气压表：Aquatec 气压表
+- 管线：干衣管，BC管，高压管，长喉管（主二级头），短喉管（备用二级头），短喉项圈
 
 ## 工具和零件
 
