@@ -71,14 +71,14 @@ So, only an extremely solid foundation of diving skills can prepare you to handl
 
 Before preparing for Antarctic diving, here was my diving background:
 
-- **Certification: PADI Rescue Diver <br>
-- **Drysuit experience**: almost none <br>
-	- PADI Drysuit Course in Australia (zip wasn’t fully closed, drysuit fully flooded) <br>
-    - GUE Fundamentals at Fuxian Lake (Provisional Pass, but basically did not pass) <br>
-    - Aside from these two courses, I've no drysuit experience on my own <br>
-- **Number of dives**: 500+<br>
+- **Certification:** PADI Rescue Diver
+- **Drysuit experience:** almost none
+	- PADI Drysuit Course in Australia (zip wasn't fully closed, drysuit fully flooded)
+    - GUE Fundamentals at Fuxian Lake (Provisional Pass, but basically did not pass)
+    - Aside from these two courses, I've no drysuit experience on my own
+- **Number of dives:** 500+
     - All in tropical waters, within 30 meters
-    - About 400 of these dives were blackwater photography<br>
+    - About 400 of these dives were blackwater photography
 
 In reality, there are only two core skills required for diving in extreme cold conditions:
 
@@ -167,7 +167,7 @@ The cruise company only provided **12L steel tanks (with H-valve, filled with ai
 
 Antarctic water temperatures usually stay below 4°C, and can drop as low as **–1°C**. The most common regulator failure is internal freezing, which causes continuous leaking. Once a **freeflow** occurs, gas sprays out like a broken faucet. A standard 12L tank at 200 bar can run dry in just two to five minutes.
 
-While there are many regulators on the market designed for typical **cold-water** environments, with special materials and engineering to reduce low-temperature failures, unfortunately, **no regulator can be guaranteed to operate reliably in extreme temperatures between –1°C and 4°C.**** This means we cannot rely solely on a regulator’s cold-water performance.
+While there are many regulators on the market designed for typical **cold-water** environments, with special materials and engineering to reduce low-temperature failures, unfortunately, **no regulator can be guaranteed to operate reliably in extreme temperatures between –1°C and 4°C.** This means we cannot rely solely on a regulator's cold-water performance.
 
 The good news is that we can manage the risk systematically through a combination of **1. cold-water-rated regulators, 2. redundant setups, and 3. proper procedures**, keeping the risk within control.
 
@@ -205,7 +205,7 @@ Look for the EN250A mark! It’s usually stamped on the first stage’s metal bo
 
  Metal conducts heat quickly. When the internal temperature of the second stage drops, it can draw warmth from the surrounding seawater, keeping it relatively stable. Plastic casings conduct heat poorly; when the inside cools, heat doesn’t flow in, the cold air accumulates, and it can freeze solid.
 
-**2) The same goes for your backup 
+**2) The same goes for your backup**
 
  In many divers’ setups, the primary second stage is carefully chosen for reliability, while the backup is often a cheap plastic one just for show. In Antarctica, your backup second stage truly needs to perform when it matters. It shouldn’t just work, but also must be **as reliable as your primary regulator**.
  
@@ -236,12 +236,12 @@ Now that we have **two fully independent, quick-switch freeze-resistant regulato
 
 Even with careful gear choices, regulators can still freeze. Why? Because we can’t eliminate all sources of moisture: water vapor in the air, tiny droplets introduced during assembly or disassembly, O-rings that let a little seep in as they age, so even a fully sealed first stage isn’t 100% dry. That leftover moisture can still freeze! So ice, why do you form so easily?! (me furiously roaring at the laws of physics.)
 
-**Just Remember:
+**Just Remember:**
 ##### 1. Do NOT rinse your regulators in fresh water after each dive.
 
 This can unintentionally introduce moisture. We only rinse them at the end of the trip.
 
-##### 2. Do NOT purging and breathing** from your regulator on the surface unless necessary.
+##### 2. **Do NOT purge and breathe** from your regulator on the surface unless necessary.
 
 Our proper procedure is: take a quick test breath on the surface to make sure both regulator systems are working, then decisively enter the water. Once submerged, start normal, steady breathing. In extreme cold air, the warm moisture from your exhalation can quickly condense inside the regulator and freeze.
 
@@ -261,7 +261,7 @@ In polar diving, **a slightly more effortful breathing style is actually safer t
 
 Here’s why: the more sensitive your second stage is, the easier it is to inhale, and the more violently the valve opens with even a light breath. This causes the gas inside the regulator to expand rapidly, which cools it down sharply. The local temperature inside can easily drop below freezing.
 
-I set the Venturi (breathing resistance) knob on my second stage to a position where it takes a little more effort to inhale. This ensures smooth breathing while reducing the risk of over-sensitivity causing internal icing. <br>
+I set the Venturi (breathing resistance) knob on my second stage to a position where it takes a little more effort to inhale. This ensures smooth breathing while reducing the risk of over-sensitivity causing internal icing.
 So by this point, you are already using the most cold-resistant regulators, had full redundancy in place, and theoretically, things should have been bulletproof. But if you can’t resist deep breaths at the surface or start hyperventilating the moment you hit the water, even the toughest regulator will fail on you.
 
 All the efforts, carefully choosing the right regulators, setting up two complete independent systems, laying out the hoses in the most ergonomic and scientific way, and strictly following all the do’s-and-don’ts—was for one simple goal:
