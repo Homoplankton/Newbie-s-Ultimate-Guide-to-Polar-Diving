@@ -377,6 +377,9 @@
             var heading = headings[i];
             var parent = heading.parentNode;
             if (!parent) continue;
+            // Skip intro/closing sections — keep them always expanded
+            var hText = heading.textContent.trim();
+            if (hText === '引言' || hText === '结语' || hText === 'Introduction' || hText === 'Closing Thoughts') continue;
             var section = document.createElement('div');
             section.className = 'collapsible-section ' + level + '-section collapsed';
             var trigger = document.createElement('div');
