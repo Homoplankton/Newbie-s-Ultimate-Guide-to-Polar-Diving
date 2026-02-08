@@ -215,6 +215,34 @@
       color: var(--h4);
     }
     .load-hint code { background: rgba(0,0,0,0.3); color: var(--accent); }
+    .site-logo {
+      position: fixed;
+      top: 0.8rem;
+      left: 0;
+      width: 260px;
+      text-align: center;
+      font-family: "Share Tech Mono", monospace;
+      font-size: 1.1rem;
+      letter-spacing: 0.25em;
+      color: var(--h1);
+      z-index: 1000;
+      text-decoration: none;
+      pointer-events: auto;
+    }
+    .site-logo:hover { opacity: 0.8; }
+    .site-logo-right {
+      position: fixed;
+      top: 0.8rem;
+      right: 2rem;
+      font-family: "Share Tech Mono", monospace;
+      font-size: 1.1rem;
+      letter-spacing: 0.25em;
+      color: var(--h1);
+      z-index: 1000;
+      text-decoration: none;
+      pointer-events: auto;
+    }
+    .site-logo-right:hover { opacity: 0.8; }
     @media (max-width: 900px) {
       .layout { flex-direction: column; }
       .toc-wrap {
@@ -245,34 +273,6 @@
       }
       .site-logo-right { display: none; }
     }
-    .site-logo {
-      position: fixed;
-      top: 0.8rem;
-      left: 0;
-      width: 260px;
-      text-align: center;
-      font-family: "Share Tech Mono", monospace;
-      font-size: 1.1rem;
-      letter-spacing: 0.25em;
-      color: var(--h1);
-      z-index: 1000;
-      text-decoration: none;
-      pointer-events: auto;
-    }
-    .site-logo:hover { opacity: 0.8; }
-    .site-logo-right {
-      position: fixed;
-      top: 0.8rem;
-      right: 2rem;
-      font-family: "Share Tech Mono", monospace;
-      font-size: 1.1rem;
-      letter-spacing: 0.25em;
-      color: var(--h1);
-      z-index: 1000;
-      text-decoration: none;
-      pointer-events: auto;
-    }
-    .site-logo-right:hover { opacity: 0.8; }
   </style>
 </head>
 <body>
