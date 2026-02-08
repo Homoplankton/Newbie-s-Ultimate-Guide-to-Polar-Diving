@@ -220,11 +220,25 @@
       .toc-wrap {
         position: static;
         max-height: none;
-        padding: 1rem 1.5rem;
+        padding: 0;
         border-right: none;
-        border-bottom: 1px solid var(--border);
+        border-bottom: none;
+        flex: none;
+      }
+      .toc-title, .toc { display: none; }
+      .lang-switcher {
+        padding: 0.5rem 0;
+        margin-bottom: 0;
       }
       .content-wrap { padding: 1.5rem; border-left: none; }
+      .site-logo {
+        position: static;
+        display: block;
+        width: 100%;
+        text-align: center;
+        padding: 1rem 0 0.3rem;
+      }
+      .site-logo-right { display: none; }
     }
     .site-logo {
       position: fixed;
