@@ -146,7 +146,9 @@
       pointer-events: none;
     }
     .collapsible-section { margin: 1.5rem 0 0.5rem; }
+    .collapsible-section.h1-section { margin: 2rem 0 1rem; }
     .collapsible-section.h2-section { margin: 1.75rem 0 0.75rem; }
+    .collapsible-section.h4-section { margin: 1rem 0 0.25rem; }
     .collapsible-trigger {
       display: flex;
       align-items: center;
@@ -345,101 +347,62 @@
         loadingEl.style.display = 'none';
 
         buildToc(contentEl);
-        makeH2Collapsible(contentEl);
-        makeH3Collapsible(contentEl);
+        makeCollapsible(contentEl);
 
         window.addEventListener('scroll', setActiveToc);
         setActiveToc();
       }
 
-      function makeH2Collapsible(container) {
-        const allH2s = Array.from(container.querySelectorAll('h2')).filter(function(h) {
-          return !h.closest('.collapsible-section');
-        });
-        for (let i = allH2s.length - 1; i >= 0; i--) {
-          const h2 = allH2s[i];
-          const parent = h2.parentNode;
-          if (!parent) continue;
-          const section = document.createElement('div');
-          section.className = 'collapsible-section h2-section collapsed';
-          const trigger = document.createElement('div');
-          trigger.className = 'collapsible-trigger';
-          trigger.setAttribute('role', 'button');
-          trigger.setAttribute('tabindex', '0');
-          trigger.setAttribute('aria-expanded', 'false');
-          trigger.setAttribute('title', '点击展开/收起');
-          const icon = document.createElement('span');
-          icon.className = 'collapsible-icon';
-          icon.setAttribute('aria-hidden', 'true');
-          icon.textContent = '\u25BC';
-          trigger.appendChild(icon);
-          const body = document.createElement('div');
-          body.className = 'collapsible-body';
-          section.appendChild(trigger);
-          section.appendChild(body);
-          // Insert section before h2, then move h2 into trigger
-          parent.insertBefore(section, h2);
-          trigger.appendChild(h2);
-          let next = section.nextElementSibling;
-          let tag;
-          while (next && !next.classList.contains('collapsible-section') && (tag = next.tagName.toUpperCase()) !== 'H1' && tag !== 'H2') {
-            body.appendChild(next);
-            next = section.nextElementSibling;
-          }
-          function toggleSection(e) {
-            section.classList.toggle('collapsed');
-            trigger.setAttribute('aria-expanded', section.classList.contains('collapsed') ? 'false' : 'true');
-          }
-          trigger.addEventListener('click', toggleSection);
-          trigger.addEventListener('keydown', function(e) {
-            if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); toggleSection(e); }
+      function makeCollapsible(container) {
+        // Process from deepest level (h4) up to h1 so nesting works correctly
+        var levels = ['h4', 'h3', 'h2', 'h1'];
+        var stopTags = { h1: ['H1'], h2: ['H1', 'H2'], h3: ['H1', 'H2', 'H3'], h4: ['H1', 'H2', 'H3', 'H4'] };
+        levels.forEach(function(level) {
+          var headings = Array.from(container.querySelectorAll(level)).filter(function(h) {
+            return !h.closest('.collapsible-section');
           });
-        }
-      }
-
-      function makeH3Collapsible(container) {
-        const allH3s = Array.from(container.querySelectorAll('h3')).filter(function(h) {
-          return !h.closest('.collapsible-section');
+          for (var i = headings.length - 1; i >= 0; i--) {
+            var heading = headings[i];
+            var parent = heading.parentNode;
+            if (!parent) continue;
+            var section = document.createElement('div');
+            section.className = 'collapsible-section ' + level + '-section collapsed';
+            var trigger = document.createElement('div');
+            trigger.className = 'collapsible-trigger';
+            trigger.setAttribute('role', 'button');
+            trigger.setAttribute('tabindex', '0');
+            trigger.setAttribute('aria-expanded', 'false');
+            trigger.setAttribute('title', '点击展开/收起');
+            var icon = document.createElement('span');
+            icon.className = 'collapsible-icon';
+            icon.setAttribute('aria-hidden', 'true');
+            icon.textContent = '\u25BC';
+            trigger.appendChild(icon);
+            var body = document.createElement('div');
+            body.className = 'collapsible-body';
+            section.appendChild(trigger);
+            section.appendChild(body);
+            parent.insertBefore(section, heading);
+            trigger.appendChild(heading);
+            var next = section.nextElementSibling;
+            var tag;
+            var stops = stopTags[level];
+            while (next && !next.classList.contains('collapsible-section') && stops.indexOf(next.tagName.toUpperCase()) === -1) {
+              body.appendChild(next);
+              next = section.nextElementSibling;
+            }
+            (function(sec, trig) {
+              function toggleSection(e) {
+                sec.classList.toggle('collapsed');
+                trig.setAttribute('aria-expanded', sec.classList.contains('collapsed') ? 'false' : 'true');
+              }
+              trig.addEventListener('click', toggleSection);
+              trig.addEventListener('keydown', function(e) {
+                if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); toggleSection(e); }
+              });
+            })(section, trigger);
+          }
         });
-        for (let i = allH3s.length - 1; i >= 0; i--) {
-          const h3 = allH3s[i];
-          const parent = h3.parentNode;
-          if (!parent) continue;
-          const section = document.createElement('div');
-          section.className = 'collapsible-section collapsed';
-          const trigger = document.createElement('div');
-          trigger.className = 'collapsible-trigger';
-          trigger.setAttribute('role', 'button');
-          trigger.setAttribute('tabindex', '0');
-          trigger.setAttribute('aria-expanded', 'false');
-          trigger.setAttribute('title', '点击展开/收起');
-          const icon = document.createElement('span');
-          icon.className = 'collapsible-icon';
-          icon.setAttribute('aria-hidden', 'true');
-          icon.textContent = '\u25BC';
-          trigger.appendChild(icon);
-          const body = document.createElement('div');
-          body.className = 'collapsible-body';
-          section.appendChild(trigger);
-          section.appendChild(body);
-          // Insert section before h3, then move h3 into trigger
-          parent.insertBefore(section, h3);
-          trigger.appendChild(h3);
-          let next = section.nextElementSibling;
-          let tag;
-          while (next && !next.classList.contains('collapsible-section') && (tag = next.tagName.toUpperCase()) !== 'H1' && tag !== 'H2' && tag !== 'H3') {
-            body.appendChild(next);
-            next = section.nextElementSibling;
-          }
-          function toggleSection(e) {
-            section.classList.toggle('collapsed');
-            trigger.setAttribute('aria-expanded', section.classList.contains('collapsed') ? 'false' : 'true');
-          }
-          trigger.addEventListener('click', toggleSection);
-          trigger.addEventListener('keydown', function(e) {
-            if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); toggleSection(e); }
-          });
-        }
       }
 
       function updateLanguageUI() {
