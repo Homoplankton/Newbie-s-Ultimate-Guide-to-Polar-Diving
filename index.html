@@ -357,10 +357,22 @@
         // Process from deepest level (h4) up to h1 so nesting works correctly
         var levels = ['h4', 'h3', 'h2', 'h1'];
         var stopTags = { h1: ['H1'], h2: ['H1', 'H2'], h3: ['H1', 'H2', 'H3'], h4: ['H1', 'H2', 'H3', 'H4'] };
+
+        // Helper: get the heading level of a collapsible-section wrapper (e.g. 'H3' for h3-section)
+        function getSectionLevel(el) {
+          if (!el.classList.contains('collapsible-section')) return null;
+          if (el.classList.contains('h1-section')) return 'H1';
+          if (el.classList.contains('h2-section')) return 'H2';
+          if (el.classList.contains('h3-section')) return 'H3';
+          if (el.classList.contains('h4-section')) return 'H4';
+          return null;
+        }
+
         levels.forEach(function(level) {
           var headings = Array.from(container.querySelectorAll(level)).filter(function(h) {
             return !h.closest('.collapsible-section');
           });
+          var stops = stopTags[level];
           for (var i = headings.length - 1; i >= 0; i--) {
             var heading = headings[i];
             var parent = heading.parentNode;
@@ -385,9 +397,14 @@
             parent.insertBefore(section, heading);
             trigger.appendChild(heading);
             var next = section.nextElementSibling;
-            var tag;
-            var stops = stopTags[level];
-            while (next && !next.classList.contains('collapsible-section') && stops.indexOf(next.tagName.toUpperCase()) === -1) {
+            while (next) {
+              var tag = next.tagName.toUpperCase();
+              // Stop at a same-or-higher level raw heading
+              if (stops.indexOf(tag) !== -1) break;
+              // Stop at a same-or-higher level collapsible section wrapper
+              var secLevel = getSectionLevel(next);
+              if (secLevel && stops.indexOf(secLevel) !== -1) break;
+              // Otherwise pull this element (including nested collapsible sections) into the body
               body.appendChild(next);
               next = section.nextElementSibling;
             }
