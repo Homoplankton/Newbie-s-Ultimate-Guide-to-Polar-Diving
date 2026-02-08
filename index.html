@@ -311,6 +311,37 @@
           a.href = '#' + h.id;
           a.textContent = h.textContent;
           a.classList.add('toc-' + h.tagName.toLowerCase());
+          a.addEventListener('click', function(e) {
+            e.preventDefault();
+            var target = document.getElementById(h.id);
+            if (!target) return;
+            // Expand all collapsed parent sections so the target becomes visible
+            var el = target.closest('.collapsible-section');
+            // First, if the heading itself is a trigger, expand its own section
+            var ownSection = target.closest('.collapsible-trigger');
+            if (ownSection) {
+              var sec = ownSection.closest('.collapsible-section');
+              if (sec && sec.classList.contains('collapsed')) {
+                sec.classList.remove('collapsed');
+                sec.querySelector('.collapsible-trigger').setAttribute('aria-expanded', 'true');
+              }
+            }
+            // Then expand all ancestor collapsed sections
+            var parent = target.closest('.collapsible-body');
+            while (parent) {
+              var parentSection = parent.closest('.collapsible-section');
+              if (parentSection && parentSection.classList.contains('collapsed')) {
+                parentSection.classList.remove('collapsed');
+                parentSection.querySelector('.collapsible-trigger').setAttribute('aria-expanded', 'true');
+              }
+              var grandparent = parentSection ? parentSection.parentElement : null;
+              parent = grandparent ? grandparent.closest('.collapsible-body') : null;
+            }
+            // Scroll to the target after expanding
+            setTimeout(function() {
+              target.scrollIntoView({ behavior: 'smooth', block: 'start' });
+            }, 50);
+          });
           const li = document.createElement('li');
           li.appendChild(a);
           tocEl.appendChild(li);
