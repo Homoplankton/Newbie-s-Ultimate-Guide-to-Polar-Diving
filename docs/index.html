@@ -474,14 +474,15 @@
         loadingEl.style.display = 'block';
         errorEl.style.display = 'none';
 
-        fetch(mdFilename)
+        var encodedFilename = encodeURIComponent(mdFilename);
+        fetch(encodedFilename)
           .then(function(r) {
             if (!r.ok) throw new Error(r.status + ' ' + mdFilename);
             return r.text();
           })
           .then(render)
           .catch(function(err) {
-            fetch('./' + mdFilename)
+            fetch('./' + encodedFilename)
               .then(function(r) {
                 if (!r.ok) throw new Error(r.status);
                 return r.text();
