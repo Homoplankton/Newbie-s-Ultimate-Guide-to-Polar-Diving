@@ -243,10 +243,24 @@
       pointer-events: auto;
     }
     .site-logo:hover { opacity: 0.8; }
+    .site-logo-right {
+      position: fixed;
+      top: 0.8rem;
+      right: 2rem;
+      font-family: "Share Tech Mono", monospace;
+      font-size: 1.1rem;
+      letter-spacing: 0.25em;
+      color: var(--h1);
+      z-index: 1000;
+      text-decoration: none;
+      pointer-events: auto;
+    }
+    .site-logo-right:hover { opacity: 0.8; }
   </style>
 </head>
 <body>
   <a class="site-logo" href="#">HOMOPLANKTON</a>
+  <a class="site-logo-right" href="#">HOMOPLANKTON</a>
   <div class="layout">
     <nav class="toc-wrap" aria-label="目录">
       <div class="lang-switcher">
