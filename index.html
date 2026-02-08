@@ -4,6 +4,9 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>极地潜水指南 — 一个月速通极地潜水员</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&display=swap" rel="stylesheet">
   <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
   <style>
     :root {
@@ -21,6 +24,9 @@
     body {
       margin: 0;
       font-family: "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "Helvetica Neue", sans-serif;
+    }
+    html.lang-en body {
+      font-family: "Space Grotesk", "Helvetica Neue", sans-serif;
       line-height: 1.85;
       color: var(--text);
       background: var(--bg);
@@ -426,6 +432,7 @@
       }
 
       function updateLanguageUI() {
+        document.documentElement.className = 'lang-' + currentLang;
         document.title = pageTitles[currentLang];
         tocTitleEl.textContent = tocTitles[currentLang];
         document.querySelectorAll('.lang-btn').forEach(function(btn) {
