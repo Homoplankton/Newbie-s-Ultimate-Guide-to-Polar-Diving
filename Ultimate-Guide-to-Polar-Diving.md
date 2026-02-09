@@ -527,11 +527,11 @@ Antarctica is not the place to test new equipment. How long should the BCD shoul
 
 I have no interest in pushing my limits. Normally, running a few steps tires me out, and jumping a couple of times requires buying myself a bubble tea as a reward. If it weren’t for seeing certain marine creatures with my own eyes, I’m the kind of gutter-dweller who would happily rot away in bed. But the problem with Antarctica is that it leaves no room for laziness. Any carelessness on my part could put me in danger.
 
-Even as my sense of touch grew dull, I had to execute precise valve drills. Inside my Michelin-tire-like suit, I had to wrestle with rapidly shifting buoyancy. In waters that forgive no errors, I had to stay composed. Only when my muscles instinctively commanded this mechanical ensemble, did my mind finally break free, and my focus could wander.
+Even as my sense of touch became dull, I had to execute precise control over my equipment. Inside my Michelin-tire-like suit, I had to wrestle with rapidly shifting buoyancy. In waters that forgive no errors, I had to stay composed. Only when my muscles instinctively commanded this mechanical ensemble, did my mind finally break free, and my focus could wander.
   
 Then, I saw a kind of blue in the water I had never seen before. Sunlight passed through the ice, refracting into distinct layers of pale blue. It wasn’t the deep richness of tropical seas, but a clarity like liquid moonlight. I realized that the scenes I had previously only seen through ROVs, also existed here in the shallow Antarctic waters. Giant spider crabs and isopods, dense echinoderms, carpeted the seafloor. The near-freezing temperatures hadn’t slowed the pace of this world. On the contrary, some isopods and gastropods were even more active than their tropical relatives. I drifted over slowly, and a dozen isopods leapt out of the seaweed, like grasshoppers startled in a meadow.
 
-Scuba diving is a very quiet sport. Diving in Antarctica, I never once felt that adrenaline-fueled rush of pushing past my limits. What I felt instead was a simple, steady joy: to be a calm observer in this icy underwater world.
+Scuba diving is a very quiet sport. Diving in Antarctica, I never once felt that adrenaline-fueled rush of pushing past my limits. What I felt instead, was a simple, steady joy to be a calm observer in this icy underwater world.
 
 I came, and I saw.
 
