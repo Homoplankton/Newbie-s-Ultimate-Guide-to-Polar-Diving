@@ -178,13 +178,13 @@ The good news is that we can manage the risk systematically through a combinatio
 
 With a DIN connection, the O-ring sits inside the valve and is tightly compressed by the first stage, creating a sealed structure that’s less affected by temperature changes. In contrast, a Yoke connection has the O-ring exposed on the outside, which can expand or contract in cold water and create gaps, leading to leaks.
 
-**2) It must be fully environmentally sealed.
+**2) It must be fully environmentally sealed.**
 
 A fully sealed first stage physically separates the internal mechanism from the surrounding water while still transmitting external pressure via a diaphragm. This keeps the inside dry and less prone to freezing.
 
 In contrast, an open-water first stage has its internal parts directly exposed to the water. While simpler and easier to maintain, and even used in many high-performance regulators, its design inherently carries a higher risk of freezing in polar conditions. For safety, we opt for fully sealed first stages in extreme cold.
 
-**3) It must be certified to the low-temperature standard EN250A.
+**3) It must be certified to the low-temperature standard EN250A.**
 
 **EN250A** is the strictest industrial standard for cold-water performance for regulators. It means the regulator has passed extreme tests in 4°C water, proving it can handle the harshest conditions.
 
