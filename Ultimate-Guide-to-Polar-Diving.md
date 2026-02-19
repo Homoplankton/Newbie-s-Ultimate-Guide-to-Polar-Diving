@@ -58,7 +58,7 @@ Our cruise had 50 divers and was split into two rounds. We took turns joining ei
 
 The expedition guides would take all the zodiacs to the same dive area, but each boat entered the water at a slightly different spot. This meant that even though more than 20 people were underwater at the same time, sometimes you only saw the people on your own boat or just your buddy. The other divers were spread out around you, but often out of sight.
 
-It’s worth emphasizing again: **there are no dive guides underwater.**
+It’s worth emphasizing again: ==there are no dive guides underwater.==
 
 The expedition guides’ job is only to take the zodiacs to the dive site, and keep an eye on the bubbles you create underwater to roughly monitor your locations and pick you up afterward. **During those 30–40 minutes underwater, how long to stay, where to swim, and how deep to go is entirely up to you and your buddy** (within the designated depths and area, of course). If you get separated from your buddy, you have one minute to search. If you can’t find them, you must ascend and end the dive.
 
@@ -132,14 +132,13 @@ I’ll share detailed insights on the GUE courses in separate posts, but for now
 
 This training focused on addressing the three most urgent challenges I faced at the time:
 
->[!tip] Challenges
+>[!Challenges]
 >
-**First**, **independently assembling and donning my gear.** Unexpected right? Before this, even as a professional underwater photographer, I hadn’t developed this basic diver skill. Honestly, I’ve made it this far alive only thanks to the help of kind human beings and sheer luck.
+>**First**, **independently assembling and donning my gear.** Unexpected right? Before this, even as a professional underwater photographer, I hadn’t developed this basic diver skill. Honestly, I’ve made it this far alive only thanks to the help of kind human beings and sheer luck.
 >
-**Second**, **inflating and deflating the drysuit**, and maintaining stable ascents and descents. This completely eliminated my fear of drysuit. I used to be terrified that any inflation would send me shooting to the surface.
+>**Second**, **inflating and deflating the drysuit**, and maintaining stable ascents and descents. This completely eliminated my fear of drysuit. I used to be terrified that any inflation would send me shooting to the surface.
 >
-**Third**, **performing fine tasks while wearing thick dry gloves**, such as handling my camera.
-****
+>**Third**, **performing fine tasks while wearing thick dry gloves**, such as handling my camera.
 
 But in reality, all this preparation was still far from enough. Diving in **16–18°C** water as a practice ground for extreme Antarctic conditions is simply on a completely different level. It can’t simulate the hypothermia risk or potential equipment failures you might face in true polar waters.
 
@@ -432,14 +431,14 @@ All of these work on the same principle: embedded resistive wires powered by ful
 
 The controls for electric-heated gear are usually on the external battery itself, with High/Medium/Low power settings and LED lights showing the remaining battery level.
 
->[!tip]
+>[!TIPS]
 >- **Don’t turn it on when you don't feel the cold yet.** Battery life is limited. If it dies when you really need it, you’ll regret it. Usually, it’s best to turn it on halfway through the dive, near the end, or when back on the zodiac facing the icy wind. That moment, you’ll feel like the warmest person alive.
 >
 >- **You could use it as a backup in case of drysuit flooding.** Even if your drysuit takes on some water, the electric heating will keep generating warmth to counteract heat loss to the sea. It’s fully waterproof, so there’s no risk of electric shock, but if the leak is severe, **ascend immediately**. Don’t rely on electric heating to tough it out.
 
 #### Do I Need Heated Systems?
 
-<u>Even in the polar regions, heated garments are not always necessary.</u>It depends on personal cold tolerance and the diving scenario. In my case, for example, the average water temperature was **1–2°C**, we only did **one dive per day**, and the longest dive lasted just **40 minutes.**
+<u>Even in the polar regions, heated garments are not always necessary.</u> It depends on personal cold tolerance and the diving scenario. In my case, for example, the average water temperature was **1–2°C**, we only did **one dive per day**, and the longest dive lasted just **40 minutes.**
 
 **I personally managed just fine without electric heating.** I felt like I could stay comfortable even up to an hour. Even on the surface, in the zodiac back to the ship, I wasn’t cold at all. The only part that felt a bit chilly was my fingers, but it was just mildly uncomfortable, not painful or numb, so it wasn’t a serious issue.
 
