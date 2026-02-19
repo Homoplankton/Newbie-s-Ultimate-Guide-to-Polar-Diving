@@ -269,11 +269,11 @@ Even with careful gear choices, regulators can still freeze. Why? **Because we c
 
 Just Remember:
 
- #### 1. Do NOT rinse your regulators in fresh water after each dive.
+ ** 1. Do NOT rinse your regulators in fresh water after each dive.**
 
 This can unintentionally introduce moisture. We only rinse them at the end of the trip.
 
- #### 2. Do NOT purge and breathe from your regulator on the surface unless necessary.
+ ** 2. Do NOT purge and breathe from your regulator on the surface unless necessary.**
 
 Our proper procedure is: take a quick test breath on the surface to make sure both regulator systems are working, then decisively enter the water. Once submerged, start normal, steady breathing. In extreme cold air, the warm moisture from your exhalation can quickly condense inside the regulator and freeze.
 
@@ -290,7 +290,7 @@ Underwater, it’s a completely different story. **Water has much higher thermal
 
 >In other words, when the regulator is immersed in water, **the surrounding water helps counteract the extreme cooling from gas expansion**, making it much less likely to reach freezing.
 
-#### 3.Do NOT reduce the second-stage breathing resistance too much
+** 3.Do NOT reduce the second-stage breathing resistance too much**
 
 In polar diving, **a slightly more effortful breathing style is actually safer than effortless, silky-smooth breathing**.
 
