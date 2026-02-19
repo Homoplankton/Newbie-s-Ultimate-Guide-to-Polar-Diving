@@ -164,9 +164,8 @@
       padding: 0.35rem 0;
       user-select: none;
       border-radius: 4px;
-      border-left: 3px solid transparent;
     }
-    .collapsible-trigger:hover { opacity: 0.9; background: rgba(143, 168, 143, 0.08); border-left-color: var(--h3); }
+    .collapsible-trigger:hover { text-shadow: 0 0 8px rgba(255, 255, 255, 0.3); }
     .collapsible-icon {
       flex-shrink: 0;
       font-size: 0.65rem;
@@ -196,6 +195,7 @@
     .content-wrap li { margin: 0.3rem 0; }
     .content-wrap li::marker { color: var(--accent); }
     .content-wrap strong { font-weight: 700; color: #ffffff; }
+    .content-wrap u { text-decoration: none; font-weight: 700; color: #ffffff; }
     .content-wrap a { color: var(--accent); text-decoration: none; }
     .content-wrap a:hover { text-decoration: underline; }
     .content-wrap hr { border: none; border-top: 1px solid var(--border); margin: 2rem 0; }
@@ -531,16 +531,16 @@
             var heading = headings[i];
             var parent = heading.parentNode;
             if (!parent) continue;
-            // Skip intro/closing sections — keep them always expanded
             var hText = heading.textContent.trim();
-            if (hText === '引言' || hText === '结语' || hText === 'Introduction' || hText === 'Closing Thoughts') continue;
+            // Determine if this section should start collapsed (Appendix/附录 h1 sections only)
+            var isAppendix = level === 'h1' && (/^Appendix\s/i.test(hText) || /^附录/.test(hText));
             var section = document.createElement('div');
-            section.className = 'collapsible-section ' + level + '-section collapsed';
+            section.className = 'collapsible-section ' + level + '-section' + (isAppendix ? ' collapsed' : '');
             var trigger = document.createElement('div');
             trigger.className = 'collapsible-trigger';
             trigger.setAttribute('role', 'button');
             trigger.setAttribute('tabindex', '0');
-            trigger.setAttribute('aria-expanded', 'false');
+            trigger.setAttribute('aria-expanded', isAppendix ? 'false' : 'true');
             trigger.setAttribute('title', '点击展开/收起');
             var icon = document.createElement('span');
             icon.className = 'collapsible-icon';
