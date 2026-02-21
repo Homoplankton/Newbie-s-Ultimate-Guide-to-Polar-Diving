@@ -205,8 +205,27 @@
       max-width: 100%;
       height: auto;
       display: block;
-      margin: 1.5rem auto;
+      margin: 1.5rem auto 0.3rem;
       border-radius: 6px;
+    }
+    .content-wrap img.portrait-img {
+      max-width: 50%;
+    }
+    .content-wrap figure {
+      margin: 1.5rem auto;
+      padding: 0;
+      text-align: center;
+    }
+    .content-wrap figure img {
+      margin: 0 auto 0.3rem;
+    }
+    .content-wrap figcaption {
+      text-align: center;
+      font-size: 0.85rem;
+      color: #999;
+      font-style: italic;
+      margin-top: 0.3rem;
+      line-height: 1.4;
     }
     .content-wrap blockquote {
       margin: 1rem 0;
@@ -309,6 +328,9 @@
       .site-logo-right { display: none; }
       .content-wrap h1 { margin: 0.6rem 0 0.3rem; font-size: 1.3rem; padding-bottom: 0.3rem; }
       .collapsible-section.h1-section { margin: 0.6rem 0 0.2rem; }
+      .content-wrap img.portrait-img {
+        max-width: 75%;
+      }
     }
     .scroll-glow {
       position: fixed;
@@ -503,6 +525,16 @@
               if (!first.textContent.trim()) first.remove();
             }
           }
+        });
+        // Image post-processing: lazy loading, async decoding, and portrait detection
+        contentEl.querySelectorAll('img').forEach(function(img) {
+          img.setAttribute('loading', 'lazy');
+          img.setAttribute('decoding', 'async');
+          img.addEventListener('load', function() {
+            if (this.naturalHeight > this.naturalWidth) {
+              this.classList.add('portrait-img');
+            }
+          });
         });
         contentEl.style.display = 'block';
         loadingEl.style.display = 'none';
