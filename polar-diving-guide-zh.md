@@ -6,7 +6,7 @@
 
 <figure>
   <img src="Images/Profile.jpeg" alt="Jialing Cai">
-  <figcaption>Blackwater Photographer - Jialing Cai.</figcaption>
+  <figcaption>黑水摄影师 - 蔡佳灵</figcaption>
 </figure>
 
 也正是通过**GUE**，我获得了一个今年1月**免费去南极潜水**的机会，与业界知名的水下摄影师和极地生物学家一起，参加一个为期两周的公民科学项目。
@@ -21,7 +21,7 @@
 
 <figure>
   <img src="Images/penguin.jpg" alt="Penguin">
-  <figcaption> Adelie Penguin </figcaption>
+  <figcaption> 阿德利企鹅 </figcaption>
 </figure>
 
 我现在能坐在这里写下这篇文章，说明我已经活着回来了。不仅如此，我本人，我的拍摄器材、潜水装备，都毫发无损地回来了，此处当有一个带特效的MVP胜利结算画面。我完成了7次南极潜水，在水下见到了企鹅，豹纹海豹，还有我最喜欢的海天使、海蝴蝶，**但最关键的，不是这些神奇的动物们本身，而是我在冰冷的海水里居然还有余力去欣赏它们。**
@@ -30,7 +30,7 @@
 
 <figure>
   <img src="Images/Surface_Antarctica.JPG" alt="Surfacing">
-  <figcaption>Zodiac came to pick me up after surfacing</figcaption>
+  <figcaption>出水后橡皮艇来接我</figcaption>
 </figure>
 
 > 我会从一个**自主能力薄弱的热带潜水员**视角,分享
@@ -64,7 +64,7 @@
 
 <figure>
   <img src="Images/Icebergs.jpg" alt="Icebergs">
-  <figcaption>Iceberg Graveyard</figcaption>
+  <figcaption>冰山墓地</figcaption>
 </figure>
 
 每天的行程是一半时间潜水，另一半时间登岛或乘坐橡皮艇巡游。
@@ -76,7 +76,7 @@
 
 <figure>
   <img src="Images/Zodiac.jpg" alt="Another zodiac full of divers">
-  <figcaption>Another zodiac full of divers</figcaption>
+  <figcaption>另一艘载满潜水员的橡皮艇</figcaption>
 </figure>
 
 ==再次强调，水下没有潜导。==
@@ -89,7 +89,7 @@
 
 <figure>
   <img src="Images/Split_Iceberg.jpg" alt="Right in front of iceberg">
-  <figcaption> In water with an iceberg </figcaption>
+  <figcaption> 冰山在水里的样子 </figcaption>
 </figure>
 
 **我们不会在浮冰的正下方潜水（那需要专门的冰潜认证）**，只能在冰山周围的开放水域活动。向导会凭经验挑选一座看起来不会随时崩塌或翻转的冰山，指定我们的潜水区域。
@@ -104,7 +104,7 @@
 
 <figure>
   <img src="Images/Underwater_withIceberg.JPG" alt="Underwater Iceberg">
-  <figcaption>Next to me is a huuuuge iceberg</figcaption>
+  <figcaption>我旁边是一座超超超大的冰山</figcaption>
 </figure>
 
 # 需要什么技能！
@@ -124,7 +124,7 @@
 
 <figure>
   <img src="Images/blackwater.jpg" alt="Blackwater">
-  <figcaption>Me in blackwater!Ignore my dangling SPG. At the time I had not trained with GUE yet and lacked equipment management awareness</figcaption>
+  <figcaption>黑水中的我！忽略我掉出来的压力表，当时还没接受GUE训练，没有装备管理意识</figcaption>
 </figure>
 
 其实在极寒地带潜水需要掌握的核心技能就两个：
@@ -144,7 +144,7 @@
 
 <figure>
   <img src="Images/BuffaloBrothers.jpg" alt="Buffalo Brothers">
-  <figcaption> Workshops with three GUE instructors at Fuxian Lake, Yunnan, China.From left to right: Yanbin Wu, Weiky, Me, Dongdong.</figcaption>
+  <figcaption> 在中国云南抚仙湖和三位GUE教练进行Workshop。从左到右：吴演斌、Weiky、我、东东。</figcaption>
 </figure>
 
 **11月下旬 - 浙江千岛湖（18°C）- 7天**
@@ -172,14 +172,14 @@ GUE Doubles Primer + Performance Diver 课程
 >
 > **第三，在佩戴干手套的情况下完成较为精细的操作**, 比如控制相机。
 
-但其实这些准备远远不够。16-18°C的水域，作为南极这种极端环境的预备练习场地，根本不在一个量级。它没办法模拟真实极寒环境下可能面临的失温和设备故障。船司的官方建议是在**4°C以下**的水域，进行**至少20潜**的练习。但受限于时间与场地，我并没有满足这一要求。于是我提前一周出发，到了阿根廷的乌斯怀亚，也就是登船去南极的港口城市，在当地找了家潜店，进行了3次check dive（**7°C**），尽管还是没测试到4°C，但心里踏实了许多。正式在南极check dive的时候，我已经比较从容了。
+但其实这些准备远远不够。16-18°C的水域，作为南极这种极端环境的预备练习场地，根本不在一个量级。它没办法模拟真实极寒环境下可能面临的失温和设备故障。船司的官方建议是在**4°C以下**的水域，进行**至少20潜**的练习。但受限于时间与场地，我并没有满足这一要求。于是我提前一周出发，到了阿根廷的乌斯怀亚，也就是登船去南极的港口城市，在当地找了家潜店，进行了3次检查潜水（**7°C**），尽管还是没测试到4°C，但心里踏实了许多。正式在南极检查潜水的时候，我已经比较从容了。
 
 <figure>
   <img src="Images/Ushuaia_CheckDive.jpg" alt="Ushuaia Check Dive">
-  <figcaption>Assembling equipment for my check dive in Ushuaia</figcaption>
+  <figcaption>在乌斯怀亚为check dive组装装备</figcaption>
 </figure>
 
-虽然我在极短的时间内从27度跳到0度，冷水经验很少，总是用不情不愿的语气自嘲，但 `<u>`我从来没有真正地，在自己手忙脚乱、身体不舒服，心虚的时候，硬着头皮下水 `</u>`。也希望正在读这篇文章的你，不要这么做。
+虽然我在极短的时间内从27度跳到0度，冷水经验很少，总是用不情不愿的语气自嘲，但**我从来没有真正地，在自己手忙脚乱、身体不舒服，心虚的时候，硬着头皮下水**。也希望正在读这篇文章的你，不要这么做。
 
 ## 强烈推荐的技能 - 双瓶潜水
 
@@ -187,7 +187,7 @@ GUE Doubles Primer + Performance Diver 课程
 
 <figure>
   <img src="Images/DoublesPrimer.jpg" alt="Doubles Primer">
-  <figcaption>First time carrying twin steel tanks! The weight of the whole setup is around 50kg! It is literally crushing me!</figcaption>
+  <figcaption>第一次背双钢瓶！整套装备大约50kg！重得我想死！</figcaption>
 </figure>
 
 南极潜水用的是单瓶，但配的是特殊的**H型阀门**，就是一个气瓶上顶着两个独立出气口，可以同时接两套调节器。
@@ -204,7 +204,7 @@ GUE Doubles Primer + Performance Diver 课程
 
 总之，双瓶的经验让我在南极丝滑地适应了H阀门，也让我对自己的调节器有了很深的信任。
 
-`<u>`如果你可以熟练使用双瓶，那在我看来你已经是半个极地潜水员了！`</u>`
+**如果你可以熟练使用双瓶，那在我看来你已经是半个极地潜水员了！**
 
 ## 十分后悔没掌握的技能 — 导航
 
@@ -227,14 +227,14 @@ GUE Doubles Primer + Performance Diver 课程
 
 <figure>
   <img src="Images/DivingGear_Antarctica.jpg" alt="Gear on ship">
-  <figcaption>Our gears and tanks on ship</figcaption>
+  <figcaption>大家的装备堆在一起</figcaption>
 </figure>
 
 （我自己的完整装备清单附在文末供参考，懒人可以直接跳到最后）
 
 ## 1. 调节器的选择和操作禁忌
 
-南极的水温通常在**4度以下，最低-1度**。调节器最容易发生的故障是内部结冰导致的**持续漏气（freeflow)**。一旦进入 freeflow，气体会像坏掉的水龙头一样不断喷出。`<u>`一个200 bar 的标准12L气瓶，通常在2到5分钟内就见底。`</u>`
+南极的水温通常在**4度以下，最低-1度**。调节器最容易发生的故障是内部结冰导致的**持续漏气（freeflow)**。一旦进入 freeflow，气体会像坏掉的水龙头一样不断喷出。**一个200 bar 的标准12L气瓶，通常在2到5分钟内就见底。**
 
 市面上虽然有很多适用于**一般冷水**环境的调节器，通过特殊的材料和工业设计，可以有效地降低低温下的故障率。
 
@@ -292,10 +292,10 @@ GUE Doubles Primer + Performance Diver 课程
 
 <figure>
   <img src="Images/H_Valve.jpg" alt="H Valve">
-  <figcaption>H-valve tank used on the ship</figcaption>
+  <figcaption>船上使用的H阀气瓶</figcaption>
 </figure>
 
-在热带休闲潜水中，备用二级头主要用于给快没气的潜伴供气，因此它与主二级头共用同一个一级头并不会带来什么实质性问题。**但在极地潜水中，备用二级头首先是为应对自身调节器失效而准备的气源**。一旦发生漏气，原有供气路径已经失效，如果备用二级头仍然连接在同一个一级头上，切换这个操作就不管用。`<u>`因此，在极地潜水中，备用二级头必须来自一条完全独立的供气路径。`</u>`
+在热带休闲潜水中，备用二级头主要用于给快没气的潜伴供气，因此它与主二级头共用同一个一级头并不会带来什么实质性问题。**但在极地潜水中，备用二级头首先是为应对自身调节器失效而准备的气源**。一旦发生漏气，原有供气路径已经失效，如果备用二级头仍然连接在同一个一级头上，切换这个操作就不管用。**因此，在极地潜水中，备用二级头必须来自一条完全独立的供气路径。**
 
 所以我们需要两套独立的调节器！不仅跟热带休闲潜水一样要有两个二级头，还要有**两个一级头**！
 
@@ -309,7 +309,7 @@ GUE Doubles Primer + Performance Diver 课程
 
 <figure>
   <img src="Images/ShortHose.jpg" alt="Short Hose">
-  <figcaption>Example of my short hose setup while in the tropics, cuz my pictures in Antarctica couldn't show the short hose clearly.</figcaption>
+  <figcaption>我在热带潜水时的短喉配置示例，因为我在南极拍的照片看不清。</figcaption>
 </figure>
 
 现在我们手里有了两套彼此独立、能快速切换的抗冻调节器，接下来只要我们避开几个容易踩雷的操作，调节器就基本不会再为难我们了。
@@ -327,7 +327,7 @@ GUE Doubles Primer + Performance Diver 课程
 
 我们的正确做法是：在水面简短地吸一口气，确保两套调节器能工作正常后，果断入水。下潜后再开始正常、稳定的呼吸。因为在极寒的空气中，我们呼出的温润水汽会迅速在调节器内部冷凝然后结冰。
 
-**你可能会问：** `<u>`“既然南极的海水温度能低至 -1°C，本身就处于结冰点，为什么在水里反而能正常呼吸和Purge了？”`</u>`
+**你可能会问：****“既然南极的海水温度能低至 -1°C，本身就处于结冰点，为什么在水里反而能正常呼吸和Purge了？”**
 
 （好奇宝宝们又增加了我好多工作量｜其实好奇的是自己）
 
@@ -347,7 +347,7 @@ GUE Doubles Primer + Performance Diver 课程
 
 **我会把二级头上的呼吸阻力旋钮（venturi）调到一个需要稍微用点力才能吸气的位置**，在保证呼吸顺畅的前提下，尽量降低调节器过度灵敏带来的结冰风险。
 
-你已经用上了最抗冻的调节器，冗余配置也拉满，理论上已经很难翻车。`<u>`但如果你偏偏就是忍不住在水面对着调节器深呼吸，或者下水后一路大喘气，那再硬核的调节器都只能当场摆烂。`</u>`
+你已经用上了最抗冻的调节器，冗余配置也拉满，理论上已经很难翻车。**但如果你偏偏就是忍不住在水面对着调节器深呼吸，或者下水后一路大喘气，那再硬核的调节器都只能当场摆烂。**
 
 说到底，我们这么认真地挑调节器，一口气配两套，用最顺手也最科学的方式布管线，老老实实记住各种操作禁忌，折腾这一大圈，就为了一个朴实无华的目标：
 
@@ -369,12 +369,12 @@ GUE Doubles Primer + Performance Diver 课程
 
 <figure>
   <img src="Images/Drysuit.jpg" alt="Drysuit">
-  <figcaption>Stepping onto the Antarctica Continent with my drysuit!!!</figcaption>
+  <figcaption>穿着干衣踏上南极大陆！！！</figcaption>
 </figure>
 
 #### 最外层 - 干衣 Drysuit
 
-**干衣相当于一层防水的壳**，通过隔绝海水让身体保持干燥，同时里面可以留一层空气，增加额外的保暖效果。`<u>`在极地潜水没有湿衣个选项，再厚的湿衣也扛不住接近冰点的水温 `</u>`。
+**干衣相当于一层防水的壳**，通过隔绝海水让身体保持干燥，同时里面可以留一层空气，增加额外的保暖效果。**在极地潜水没有湿衣个选项，再厚的湿衣也扛不住接近冰点的水温**。
 
 大多数极地潜水员都会选择采用多层贴合结构面料（如**Trilaminate**）的干衣，尽管仍有少数人使用氯丁橡胶材质（Neoprene）的干衣。
 
@@ -437,7 +437,7 @@ GUE Doubles Primer + Performance Diver 课程
 
 <figure>
   <img src="Images/YellowMask.jpg" alt="Yellow Mask">
-  <figcaption>Me wearing a regular mask in polar water</figcaption>
+  <figcaption>我在南极戴的普通面镜</figcaption>
 </figure>
 
 我们船上有几位潜水员使用的是**全脸面镜（full-face mask)**，嘴唇也可以被隔离起来。调节器固定在面镜里，可以直接用口鼻自然呼吸。但一旦进水或起雾，处理起来很麻烦。主气源出问题时的应急切换程序也更繁琐，所以全脸面镜是一项专项技能，需要提前适应和训练。
@@ -450,7 +450,7 @@ GUE Doubles Primer + Performance Diver 课程
 
 <figure>
   <img src="Images/DryGloves.jpg" alt="Dry Gloves">
-  <figcaption>I wsih my dry gloves were yellow just to match my overall color theme lol</figcaption>
+  <figcaption>要是我的干手套是黄色的就好了，这样就能配色统一了哈哈</figcaption>
 </figure>
 
 干手套就有点像水管工人专用的厚橡胶防水手套。不同品牌的干衣和干手套连接方式会有差别，但只要提前练熟，差别不大，**最重要的是密封性稳不稳**。我的干衣用的是可拆卸的袖封系统。穿干衣前，先把袖封从干衣袖口取下，然后把干手套的橡胶波纹接口对准干衣的波纹环，一点点压实直到完全贴合，形成牢固的密封。这个过程对我这种手残党来说需要点耐心，但密封效果极佳！我一次都没漏过水。
@@ -491,7 +491,7 @@ GUE Doubles Primer + Performance Diver 课程
 
 #### 那我到底需不需要电加热？
 
-`<u>`即便是在极地，电加热也不是一个必须的投入。它取决于个人的抗冻能力以及使用场景 `</u>`。以我们这次出行为例，平均水温**1-2**度，每天只有**1**潜，而且最长就**40分钟**。
+**即便是在极地，电加热也不是一个必须的投入。它取决于个人的抗冻能力以及使用场景**。以我们这次出行为例，平均水温**1-2**度，每天只有**1**潜，而且最长就**40分钟**。
 
 **我自己在没有电加热的情况下，游刃有余**，感觉在水里呆一个小时都不成问题。并且在回到水面后，坐在橡皮艇回到邮轮的那段路程也一点都不冷。唯一我觉得有点冷的地方是手指，但那点冷，只是冷得不舒服，而不是冷得刺痛或者发麻，所以不算大问题。
 
@@ -516,7 +516,7 @@ GUE Doubles Primer + Performance Diver 课程
 
 <figure>
   <img src="Images/Antarctica_RedAlgae.jpg" alt="Antarctica Red Algae">
-  <figcaption>Rocky seafloor covered by macroalgae in Antarctica</figcaption>
+  <figcaption>覆盖着大型藻类的南极海底</figcaption>
 </figure>
 
 ## 3. 要带多少配重
@@ -538,7 +538,7 @@ GUE Doubles Primer + Performance Diver 课程
 
 其次，腰上的BC配重包根本装不下那么多铅块。
 
-`<u>`最最最重要的，这样非常不方便向导把你从水里拽回橡皮艇。`</u>`
+**最最最重要的，这样非常不方便向导把你从水里拽回橡皮艇。**
 
 回到水面的时候，橡皮艇上**没有梯子**，**没有平台**，真的就是靠向导的蛮力把你从水里硬生生地拖上去。
 
@@ -568,18 +568,18 @@ GUE Doubles Primer + Performance Diver 课程
 
 <figure>
   <img src="Images/LowVisibility.jpg" alt="Low visibility">
-  <figcaption>An example of how low the visibility could be</figcaption>
+  <figcaption>来感受一下这个能见度</figcaption>
 </figure>
 
 我们的所有潜水活动都安排在白天，所以我完全没意识到灯的重要性。我只带了一支拍黑水常用的搜索手电，用来照明拍摄对象，不是那种亮度高、穿透力强的**技术潜水主灯**。这是我除了Weight harness之外，另一个超级后悔没带的装备。
 
 **主灯**是**GUE Fundamentals**课程里硬性要求的装备，我之前总觉得大白天带着它嫌麻烦，然后到了南极被狠狠打脸。看吧，没有认真贯彻GUE的指导方针，遭到了报应。有好几次，队友大概离我只有3米远，但我就是看不见，这个时候要是有主灯，随便晃两下就能知道彼此的位置和方向。这种时候，主灯不是用来照明，而是释放信号的工具。
 
-我几乎没怎么看到同船的潜水员带主灯，倒也能理解，装备已经够繁琐了，要拿大相机，还要带电加热的外挂电池，能省一样是一样。`<u>`但我个人还是觉得，主灯应该是南极潜水的标配 `</u>`。
+我几乎没怎么看到同船的潜水员带主灯，倒也能理解，装备已经够繁琐了，要拿大相机，还要带电加热的外挂电池，能省一样是一样。**但我个人还是觉得，主灯应该是南极潜水的标配**。
 
 <figure>
   <img src="Images/PrimaryLight.jpg" alt="Primary Light">
-  <figcaption>My instructor on the right is using a corded primary light</figcaption>
+  <figcaption>右边我的教练用的就是主灯</figcaption>
 </figure>
 
 ## 5. 别忘了备份和零件
@@ -627,7 +627,7 @@ GUE Doubles Primer + Performance Diver 课程
 
 <figure>
   <img src="Images/Pteropod.jpg" alt="Sea Butterfly">
-  <figcaption>A sea butterfly I found around an iceberg!</figcaption>
+  <figcaption>我在冰山附近发现的一只海蝴蝶！</figcaption>
 </figure>
 
 # 附录 I  南极潜水装备清单总结
