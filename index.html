@@ -458,16 +458,16 @@
       position: fixed;
       top: 6.1rem;
       bottom: 0.6rem;
-      width: 138px;
+      width: 190px;
       display: none;
       pointer-events: none;
       z-index: 20;
     }
     .side-decor.left {
-      left: 0.65rem;
+      left: calc((100vw - 1200px) / 2 - 200px);
     }
     .side-decor.right {
-      right: 0.65rem;
+      right: calc((100vw - 1200px) / 2 - 200px);
     }
     .side-decor img {
       position: absolute;
@@ -478,21 +478,22 @@
       object-fit: cover;
       border-radius: 50%;
       background: #000;
+      border: 1px solid rgba(255, 214, 110, 0.16);
       opacity: 1;
       transform: rotate(var(--r));
       transform-origin: center;
     }
-    .side-decor.left .c1 { --x: 4%; --y: 2%; --s: 104px; --r: -11deg; }
-    .side-decor.left .c2 { --x: 37%; --y: 26%; --s: 86px; --r: 9deg; }
-    .side-decor.left .c3 { --x: 8%; --y: 45%; --s: 112px; --r: -8deg; }
-    .side-decor.left .c4 { --x: 40%; --y: 68%; --s: 84px; --r: 12deg; }
-    .side-decor.left .c5 { --x: 12%; --y: 83%; --s: 92px; --r: -10deg; }
-    .side-decor.right .c1 { --x: 36%; --y: 4%; --s: 96px; --r: 10deg; }
-    .side-decor.right .c2 { --x: 6%; --y: 24%; --s: 90px; --r: -9deg; }
-    .side-decor.right .c3 { --x: 34%; --y: 46%; --s: 108px; --r: 8deg; }
-    .side-decor.right .c4 { --x: 4%; --y: 69%; --s: 86px; --r: -12deg; }
-    .side-decor.right .c5 { --x: 30%; --y: 84%; --s: 94px; --r: 11deg; }
-    @media (min-width: 1360px) {
+    .side-decor.left .c1 { --x: 4%; --y: 2%; --s: 142px; --r: -13deg; }
+    .side-decor.left .c2 { --x: 34%; --y: 22%; --s: 120px; --r: 11deg; }
+    .side-decor.left .c3 { --x: 8%; --y: 42%; --s: 150px; --r: -9deg; }
+    .side-decor.left .c4 { --x: 38%; --y: 66%; --s: 116px; --r: 14deg; }
+    .side-decor.left .c5 { --x: 10%; --y: 82%; --s: 128px; --r: -12deg; }
+    .side-decor.right .c1 { --x: 34%; --y: 3%; --s: 132px; --r: 12deg; }
+    .side-decor.right .c2 { --x: 8%; --y: 23%; --s: 124px; --r: -10deg; }
+    .side-decor.right .c3 { --x: 32%; --y: 44%; --s: 146px; --r: 9deg; }
+    .side-decor.right .c4 { --x: 6%; --y: 67%; --s: 118px; --r: -13deg; }
+    .side-decor.right .c5 { --x: 28%; --y: 83%; --s: 126px; --r: 12deg; }
+    @media (min-width: 1600px) {
       .side-decor { display: flex; }
     }
   </style>
