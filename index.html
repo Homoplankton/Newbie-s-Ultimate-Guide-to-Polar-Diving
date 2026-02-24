@@ -206,7 +206,7 @@
       height: auto;
       display: block;
       margin: 1.5rem auto 0.3rem;
-      border-radius: 6px;
+      border-radius: 0;
     }
     .content-wrap img.portrait-img {
       max-width: 50%;
@@ -334,15 +334,20 @@
     }
     .scroll-glow {
       position: fixed;
-      top: 0;
-      left: 0;
-      right: 0;
-      bottom: 0;
+      inset: 0;
+      width: 100vw;
+      height: 100dvh;
+      padding-bottom: env(safe-area-inset-bottom);
       pointer-events: none;
       z-index: 9999;
       box-shadow: inset 0 0 40px color-mix(in srgb, var(--h1) 60%, transparent);
       opacity: 0;
       transition: opacity 0.4s ease;
+      will-change: opacity;
+      transform: translateZ(0);
+    }
+    @supports not (height: 100dvh) {
+      .scroll-glow { height: 100vh; }
     }
     .scroll-glow.active {
       opacity: 1;
@@ -526,10 +531,29 @@
             }
           }
         });
-        // Image post-processing: lazy loading, async decoding, and portrait detection
-        contentEl.querySelectorAll('img').forEach(function(img) {
-          img.setAttribute('loading', 'lazy');
+        // Image post-processing: prefer optimized assets, set loading strategy, and detect portrait images
+        Array.from(contentEl.querySelectorAll('img')).forEach(function(img, index) {
+          var originalSrc = img.getAttribute('src') || '';
+          var optimizedSrc = originalSrc.startsWith('Images/')
+            ? originalSrc.replace(/^Images\//, 'Images/optimized/')
+            : '';
+
+          // Prioritize top-of-page images and defer the rest.
+          img.setAttribute('loading', index < 2 ? 'eager' : 'lazy');
+          img.setAttribute('fetchpriority', index < 2 ? 'high' : 'low');
           img.setAttribute('decoding', 'async');
+
+          if (optimizedSrc) {
+            img.setAttribute('data-original-src', originalSrc);
+            img.setAttribute('src', optimizedSrc);
+            img.addEventListener('error', function onImageError() {
+              var fallback = this.getAttribute('data-original-src');
+              if (fallback && this.getAttribute('src') !== fallback) {
+                this.setAttribute('src', fallback);
+              }
+            }, { once: true });
+          }
+
           img.addEventListener('load', function() {
             if (this.naturalHeight > this.naturalWidth) {
               this.classList.add('portrait-img');
