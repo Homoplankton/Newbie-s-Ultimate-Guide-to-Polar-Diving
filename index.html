@@ -47,6 +47,7 @@
       max-height: 100vh;
       overflow-y: auto;
       background: var(--bg);
+      z-index: 80;
     }
     .toc-title {
       font-size: 0.8rem;
@@ -460,7 +461,7 @@
       width: 228px;
       display: none;
       pointer-events: none;
-      z-index: 8;
+      z-index: 20;
     }
     .side-decor.left { left: 1.05rem; }
     .side-decor.right { right: 1.05rem; }
@@ -496,7 +497,7 @@
         width: 254px;
       }
     }
-    @media (min-width: 1750px) {
+    @media (min-width: 1360px) {
       .side-decor { display: flex; }
     }
   </style>
