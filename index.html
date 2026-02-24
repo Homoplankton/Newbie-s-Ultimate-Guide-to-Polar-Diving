@@ -453,10 +453,51 @@
     .scroll-glow.active {
       opacity: 1;
     }
+    .side-decor {
+      position: fixed;
+      top: 6.25rem;
+      bottom: 0.9rem;
+      width: 108px;
+      display: none;
+      flex-direction: column;
+      gap: 0.55rem;
+      pointer-events: none;
+      z-index: 30;
+    }
+    .side-decor.left { left: 0.8rem; }
+    .side-decor.right { right: 0.8rem; }
+    .side-decor img {
+      width: 100%;
+      flex: 1 1 0;
+      min-height: 66px;
+      object-fit: cover;
+      object-position: center;
+      border-radius: 6px;
+      border: 1px solid color-mix(in srgb, var(--accent) 25%, var(--border));
+      background: #000;
+      opacity: 0.82;
+    }
+    @media (min-width: 1360px) {
+      .side-decor { display: flex; }
+    }
   </style>
 </head>
 <body>
   <div class="scroll-glow"></div>
+  <aside class="side-decor left" aria-label="Left decorations">
+    <img src="SideColumnDecorations/optimized/DSC_0883-Edit.jpg" alt="" loading="lazy" decoding="async">
+    <img src="SideColumnDecorations/optimized/DSC_1912.jpg" alt="" loading="lazy" decoding="async">
+    <img src="SideColumnDecorations/optimized/DSC_2132.jpg" alt="" loading="lazy" decoding="async">
+    <img src="SideColumnDecorations/optimized/DSC_21581.jpg" alt="" loading="lazy" decoding="async">
+    <img src="SideColumnDecorations/optimized/DSC_2846.jpg" alt="" loading="lazy" decoding="async">
+  </aside>
+  <aside class="side-decor right" aria-label="Right decorations">
+    <img src="SideColumnDecorations/optimized/DSC_33761.jpg" alt="" loading="lazy" decoding="async">
+    <img src="SideColumnDecorations/optimized/DSC_3519.jpg" alt="" loading="lazy" decoding="async">
+    <img src="SideColumnDecorations/optimized/DSC_3767.jpg" alt="" loading="lazy" decoding="async">
+    <img src="SideColumnDecorations/optimized/DSC_4560.jpg" alt="" loading="lazy" decoding="async">
+    <img src="SideColumnDecorations/optimized/_Y3A0361.jpg" alt="" loading="lazy" decoding="async">
+  </aside>
   <div class="top-right-stack">
     <a class="site-logo-right" href="#">HOMOPLANKTON</a>
     <aside class="contact-right" aria-label="Contact">
