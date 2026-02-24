@@ -543,15 +543,17 @@
           img.setAttribute('fetchpriority', index < 2 ? 'high' : 'low');
           img.setAttribute('decoding', 'async');
 
+          // Keep original as default; only swap after optimized image is verified loadable.
           if (optimizedSrc) {
-            img.setAttribute('data-original-src', originalSrc);
-            img.setAttribute('src', optimizedSrc);
-            img.addEventListener('error', function onImageError() {
-              var fallback = this.getAttribute('data-original-src');
-              if (fallback && this.getAttribute('src') !== fallback) {
-                this.setAttribute('src', fallback);
-              }
-            }, { once: true });
+            var probe = new Image();
+            probe.decoding = 'async';
+            probe.onload = function() {
+              img.setAttribute('src', optimizedSrc);
+            };
+            probe.onerror = function() {
+              // Keep original source if optimized asset is unavailable or incompatible.
+            };
+            probe.src = optimizedSrc;
           }
 
           img.addEventListener('load', function() {
