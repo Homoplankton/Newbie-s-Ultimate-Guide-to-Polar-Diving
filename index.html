@@ -357,6 +357,40 @@
       pointer-events: auto;
     }
     .site-logo-right:hover { opacity: 0.8; }
+    .contact-right {
+      position: fixed;
+      top: 2.8rem;
+      right: 2rem;
+      z-index: 1000;
+      border: 1px solid var(--border);
+      background: color-mix(in srgb, var(--bg-panel) 92%, transparent);
+      border-radius: 6px;
+      padding: 0.45rem 0.55rem;
+      min-width: 250px;
+      backdrop-filter: blur(3px);
+    }
+    .contact-link {
+      display: flex;
+      align-items: center;
+      gap: 0.45rem;
+      color: var(--text);
+      text-decoration: none;
+      font-size: 0.78rem;
+      line-height: 1.35;
+      padding: 0.14rem 0;
+      font-family: "IBM Plex Sans", "Helvetica Neue", sans-serif;
+    }
+    .contact-link:hover {
+      color: var(--accent);
+    }
+    .contact-symbol {
+      color: var(--h1);
+      display: inline-block;
+      width: 1rem;
+      text-align: center;
+      font-size: 0.8rem;
+      flex-shrink: 0;
+    }
     @media (max-width: 900px) {
       .layout { flex-direction: column; }
       .toc-wrap {
@@ -386,6 +420,7 @@
         letter-spacing: 0.2em;
       }
       .site-logo-right { display: none; }
+      .contact-right { display: none; }
       .content-wrap h1 { margin: 0.6rem 0 0.3rem; font-size: 1.3rem; padding-bottom: 0.3rem; }
       .collapsible-section.h1-section { margin: 0.6rem 0 0.2rem; }
       .content-wrap img.portrait-img {
@@ -417,6 +452,24 @@
 <body>
   <div class="scroll-glow"></div>
   <a class="site-logo-right" href="#">HOMOPLANKTON</a>
+  <aside class="contact-right" aria-label="Contact">
+    <a class="contact-link" href="mailto:Jialingcai@homoplankton.com">
+      <span class="contact-symbol">&#9993;</span>
+      <span>Jialingcai@homoplankton.com</span>
+    </a>
+    <a class="contact-link" href="https://instagram.com/homoplankton" target="_blank" rel="noopener noreferrer">
+      <span class="contact-symbol">&#9678;</span>
+      <span>@homoplankton</span>
+    </a>
+    <a class="contact-link" href="https://homoplankton.substack.com" target="_blank" rel="noopener noreferrer">
+      <span class="contact-symbol">&#10038;</span>
+      <span>homoplankton</span>
+    </a>
+    <a class="contact-link" href="https://www.homoplankton.com" target="_blank" rel="noopener noreferrer">
+      <span class="contact-symbol">&#8962;</span>
+      <span>www.homoplankton.com</span>
+    </a>
+  </aside>
   <div class="layout">
     <nav class="toc-wrap" aria-label="目录">
       <a class="site-logo" href="#">HOMOPLANKTON</a>
