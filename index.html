@@ -478,9 +478,8 @@
       object-fit: cover;
       border-radius: 50%;
       background: #000;
-      border: 1px solid rgba(255, 214, 110, 0.16);
       opacity: 1;
-      transform: rotate(var(--r));
+      transform: rotate(var(--r)) scale(var(--z, 1));
       transform-origin: center;
     }
     .side-decor.left .c1 { --x: 4%; --y: 2%; --s: 142px; --r: -13deg; }
@@ -493,6 +492,7 @@
     .side-decor.right .c3 { --x: 32%; --y: 44%; --s: 146px; --r: 9deg; }
     .side-decor.right .c4 { --x: 6%; --y: 67%; --s: 118px; --r: -13deg; }
     .side-decor.right .c5 { --x: 28%; --y: 83%; --s: 126px; --r: 12deg; }
+    .side-decor.right img { --z: 1.35; }
     @media (min-width: 1600px) {
       .side-decor { display: flex; }
     }
