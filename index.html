@@ -456,48 +456,43 @@
     }
     .side-decor {
       position: fixed;
-      top: 5.8rem;
-      bottom: 0.35rem;
-      width: 228px;
+      top: 6.1rem;
+      bottom: 0.6rem;
+      width: 152px;
       display: none;
       pointer-events: none;
       z-index: 20;
     }
-    .side-decor.left { left: 1.05rem; }
-    .side-decor.right { right: 1.05rem; }
+    .side-decor.left {
+      left: calc((100vw - 1200px) / 2 - 170px);
+    }
+    .side-decor.right {
+      right: calc((100vw - 1200px) / 2 - 170px);
+    }
     .side-decor img {
       position: absolute;
-      width: auto;
-      height: var(--h);
-      max-width: 88%;
+      width: var(--s);
+      height: var(--s);
       top: var(--y);
       left: var(--x);
-      object-fit: contain;
-      object-position: center;
-      border-radius: 0;
-      background: transparent;
+      object-fit: cover;
+      border-radius: 50%;
+      background: #000;
       opacity: 1;
       transform: rotate(var(--r));
-      transform-origin: center center;
-      mix-blend-mode: normal;
-      filter: none;
+      transform-origin: center;
     }
-    .side-decor.left .c1 { --y: 0.8%; --x: 4%; --h: 20vh; --r: -14deg; }
-    .side-decor.left .c2 { --y: 19.5%; --x: 34%; --h: 17vh; --r: 12deg; }
-    .side-decor.left .c3 { --y: 37%; --x: 9%; --h: 21vh; --r: -11deg; }
-    .side-decor.left .c4 { --y: 58.5%; --x: 38%; --h: 16vh; --r: 13deg; }
-    .side-decor.left .c5 { --y: 76%; --x: 12%; --h: 19vh; --r: -12deg; }
-    .side-decor.right .c1 { --y: 1.2%; --x: 31%; --h: 19vh; --r: 13deg; }
-    .side-decor.right .c2 { --y: 19%; --x: 5%; --h: 17vh; --r: -12deg; }
-    .side-decor.right .c3 { --y: 38.5%; --x: 29%; --h: 20vh; --r: 11deg; }
-    .side-decor.right .c4 { --y: 58%; --x: 3%; --h: 16vh; --r: -13deg; }
-    .side-decor.right .c5 { --y: 76.5%; --x: 26%; --h: 18vh; --r: 12deg; }
-    @media (min-width: 1700px) {
-      .side-decor {
-        width: 254px;
-      }
-    }
-    @media (min-width: 1360px) {
+    .side-decor.left .c1 { --x: 4%; --y: 2%; --s: 104px; --r: -11deg; }
+    .side-decor.left .c2 { --x: 37%; --y: 26%; --s: 86px; --r: 9deg; }
+    .side-decor.left .c3 { --x: 8%; --y: 45%; --s: 112px; --r: -8deg; }
+    .side-decor.left .c4 { --x: 40%; --y: 68%; --s: 84px; --r: 12deg; }
+    .side-decor.left .c5 { --x: 12%; --y: 83%; --s: 92px; --r: -10deg; }
+    .side-decor.right .c1 { --x: 36%; --y: 4%; --s: 96px; --r: 10deg; }
+    .side-decor.right .c2 { --x: 6%; --y: 24%; --s: 90px; --r: -9deg; }
+    .side-decor.right .c3 { --x: 34%; --y: 46%; --s: 108px; --r: 8deg; }
+    .side-decor.right .c4 { --x: 4%; --y: 69%; --s: 86px; --r: -12deg; }
+    .side-decor.right .c5 { --x: 30%; --y: 84%; --s: 94px; --r: 11deg; }
+    @media (min-width: 1740px) {
       .side-decor { display: flex; }
     }
   </style>
@@ -505,18 +500,18 @@
 <body>
   <div class="scroll-glow"></div>
   <aside class="side-decor left" aria-label="Left decorations">
-    <img class="c1" src="SideColumnDecorations/masked/DSC_0883-Edit.jpg" alt="" loading="lazy" decoding="async">
-    <img class="c2" src="SideColumnDecorations/masked/DSC_1912.jpg" alt="" loading="lazy" decoding="async">
-    <img class="c3" src="SideColumnDecorations/masked/DSC_2132.jpg" alt="" loading="lazy" decoding="async">
-    <img class="c4" src="SideColumnDecorations/masked/DSC_21581.jpg" alt="" loading="lazy" decoding="async">
-    <img class="c5" src="SideColumnDecorations/masked/DSC_2846.jpg" alt="" loading="lazy" decoding="async">
+    <img class="c1" src="SideColumnDecorations/circles/DSC_0883-Edit.jpg" alt="" loading="lazy" decoding="async">
+    <img class="c2" src="SideColumnDecorations/circles/DSC_1912.jpg" alt="" loading="lazy" decoding="async">
+    <img class="c3" src="SideColumnDecorations/circles/DSC_2132.jpg" alt="" loading="lazy" decoding="async">
+    <img class="c4" src="SideColumnDecorations/circles/DSC_21581.jpg" alt="" loading="lazy" decoding="async">
+    <img class="c5" src="SideColumnDecorations/circles/DSC_2846.jpg" alt="" loading="lazy" decoding="async">
   </aside>
   <aside class="side-decor right" aria-label="Right decorations">
-    <img class="c1" src="SideColumnDecorations/masked/DSC_33761.jpg" alt="" loading="lazy" decoding="async">
-    <img class="c2" src="SideColumnDecorations/masked/DSC_3519.jpg" alt="" loading="lazy" decoding="async">
-    <img class="c3" src="SideColumnDecorations/masked/DSC_3767.jpg" alt="" loading="lazy" decoding="async">
-    <img class="c4" src="SideColumnDecorations/masked/DSC_4560.jpg" alt="" loading="lazy" decoding="async">
-    <img class="c5" src="SideColumnDecorations/masked/_Y3A0361.jpg" alt="" loading="lazy" decoding="async">
+    <img class="c1" src="SideColumnDecorations/circles/DSC_33761.jpg" alt="" loading="lazy" decoding="async">
+    <img class="c2" src="SideColumnDecorations/circles/DSC_3519.jpg" alt="" loading="lazy" decoding="async">
+    <img class="c3" src="SideColumnDecorations/circles/DSC_3767.jpg" alt="" loading="lazy" decoding="async">
+    <img class="c4" src="SideColumnDecorations/circles/DSC_4560.jpg" alt="" loading="lazy" decoding="async">
+    <img class="c5" src="SideColumnDecorations/circles/_Y3A0361.jpg" alt="" loading="lazy" decoding="async">
   </aside>
   <div class="top-right-stack">
     <a class="site-logo-right" href="#">HOMOPLANKTON</a>
