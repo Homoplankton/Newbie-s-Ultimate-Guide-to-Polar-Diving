@@ -1,6 +1,6 @@
 # Introduction
 
-Hello everyone, I'm **Jialing Cai**, a blackwater photographer from **Chongqing, China**. 
+Hello everyone, I'm **Jialing Cai**, a blackwater photographer from **Chongqing, China**.
 
 Last November, I was selected as the **2026 Global Underwater Explorers (GUE) NextGen Scholar**. GUE is a diving organization built on rigorous, high-standard training and deeply engaged in scientific exploration and marine conservation. I am honored to be the only scholarship recipient worldwide and the first from China. I'm currently receiving a full year of extremely generous support from GUE—including diving courses, equipment, and community resources that allow me to refine my techniques, venture to places I once wouldn’t have dared to go, and document even more planktonic life.
 
@@ -17,8 +17,8 @@ At the time, there was just two months left before departure, and I was nothing 
 
 I could have easily quit, because no one was forcing me to go. I could also have chosen to visit Antarctica simply as a carefree tourist and skip diving altogether. **But carrying the halo of GUE and being an underwater photographer, not diving ?! Would that make any sense**?!
 
->In the end, I couldn’t resist the temptation of saving a fortune on a free Antarctic trip, nor could I let go of my stubborn pride as an underwater photographer.
->
+> In the end, I couldn’t resist the temptation of saving a fortune on a free Antarctic trip, nor could I let go of my stubborn pride as an underwater photographer.
+
 **So I decided to grit my teeth and crash-course my way into becoming a polar diver within a single month.**
 
 <figure>
@@ -26,7 +26,7 @@ I could have easily quit, because no one was forcing me to go. I could also have
   <figcaption> Adelie Penguin </figcaption>
 </figure>
 
-The fact that I can sit here now and write this article means I made it back alive. Not only that, both I and all my camera and diving gear returned completely unscathed. I completed 7 dives in Antarctica, encountering penguins, leopard seals, and my favorites—sea angels and sea butterflies. But the most important thing wasn’t the magical creatures themselves. **It was that, even in the icy water, I still had the capacity to pause, and truly absorb the beauty from them.** 
+The fact that I can sit here now and write this article means I made it back alive. Not only that, both I and all my camera and diving gear returned completely unscathed. I completed 7 dives in Antarctica, encountering penguins, leopard seals, and my favorites—sea angels and sea butterflies. But the most important thing wasn’t the magical creatures themselves. **It was that, even in the icy water, I still had the capacity to pause, and truly absorb the beauty from them.**
 
 So I can now say with confidence that, although my preparation in such a short time wasn’t ideal, it was sufficient. If you also dream of polar diving, this article can offer you some practical guidance.
 
@@ -35,33 +35,30 @@ So I can now say with confidence that, although my preparation in such a short t
   <figcaption>Zodiac came to pick me up after surfacing</figcaption>
 </figure>
 
->I will share from the perspective of **a spoiled, and non-self-reliant tropical diver**:
+> I will share from the perspective of **a spoiled, and non-self-reliant tropical diver**:
 >
->- Standard Procedures for Antarctic Diving
->- Environmental Risks at Dive Sites
->- Essential Skills to Master
->- Equipment You Need to Bring
+> - Standard Procedures for Antarctic Diving
+> - Environmental Risks at Dive Sites
+> - Essential Skills to Master
+> - Equipment You Need to Bring
 
->[!NOTE]
->The following content is entirely based on my personal experience and judgment, and **does not represent any organization**. 
+> [!NOTE]
+> The following content is entirely based on my personal experience and judgment, and **does not represent any organization**.
+
 # Standard Procedures for Antarctic Diving
 
 For those like me, pampered and babysit by the diving industry in Southeast Asia, you must first accept these rules:
 
-- **Antarctica does not offer discovery dives.** 
-You must be a certified diver with cold-water experience.
-
-- **There is no equipment rental in Antarctica.** 
-You must bring all of the your own gear. 
-
-- **You must be a self-reliant diver.** 
-No one will help carry, assemble and check your equipment.
-
-- **There are no dive guides underwater.** 
-You are responsible for yourself and must look out for your buddy.
-
+- **Antarctica does not offer discovery dives.**
+  You must be a certified diver with cold-water experience.
+- **There is no equipment rental in Antarctica.**
+  You must bring all of the your own gear.
+- **You must be a self-reliant diver.**
+  No one will help carry, assemble and check your equipment.
+- **There are no dive guides underwater.**
+  You are responsible for yourself and must look out for your buddy.
 - **There are no decompression chambers in Antarctica**
-All dives must be extremely conservative.
+  All dives must be extremely conservative.
 
 One way to dive in Antarctica is by joining a cruise that offers diving options. In my case, **GUE** sent me to join **BlueGreen Expeditions** for a two-week long trip in early January.
 
@@ -113,18 +110,18 @@ So, only an extremely solid foundation of diving skills can prepare you to handl
 
 # Skills You Need
 
-## My Diving Background 
+## My Diving Background
 
 Before preparing for Antarctic diving, here was my diving background:
 
 - **Certification:** PADI Rescue Diver
 - **Drysuit experience:** almost none
-	- PADI Drysuit Course in Australia (zip wasn't fully closed, drysuit fully flooded)
-    - GUE Fundamentals at Fuxian Lake (Provisional Pass, but basically did not pass)
-    - Aside from these two courses, I've no drysuit experience on my own
+  - PADI Drysuit Course in Australia (zip wasn't fully closed, drysuit fully flooded)
+  - GUE Fundamentals at Fuxian Lake (Provisional Pass, but basically did not pass)
+  - Aside from these two courses, I've no drysuit experience on my own
 - **Number of dives:** 500+
-    - All in tropical waters, within 30 meters
-    - About 400 of these dives were blackwater photography
+  - All in tropical waters, within 30 meters
+  - About 400 of these dives were blackwater photography
 
 <figure>
   <img src="Images/blackwater.jpg" alt="Blackwater">
@@ -133,14 +130,14 @@ Before preparing for Antarctic diving, here was my diving background:
 
 In reality, there are only two core skills required for diving in extreme cold conditions:
 
->**1. Proficient use of a drysuit, including thick undergarments and dry gloves**
->**2. Regulator failure management**
+> **1. Proficient use of a drysuit, including thick undergarments and dry gloves**
+> **2. Regulator failure management**
 
 But anyone who has tried drysuits knows how deep the rabbit hole goes! Mastering this skill in a short time, especially under the shadow of a previous drysuit flooding accident and almost failing GUE Fundamentals, was truly intimidating.
 
 So I turned to my GUE mentor Mr. Yanbin Wu, for help —
 
->“GUE is sending me to Antarctica. I’m sure you want me to be able to come back, right?”
+> “GUE is sending me to Antarctica. I’m sure you want me to be able to come back, right?”
 
 ## Training to Prepare for Antarctic Diving
 
@@ -173,17 +170,17 @@ Drysuit with double tanks
 
 **Early January – Departure for Antarctica!**
 
-I’ll share detailed insights on the GUE courses in separate posts, but for now, here’s a brief summary of what I achieved. Over the course of a month, I completed about **50 dives in a drysuit with double tanks**, including 30 dives in **16–18°C** cold water wearing a thick undergarment. 
+I’ll share detailed insights on the GUE courses in separate posts, but for now, here’s a brief summary of what I achieved. Over the course of a month, I completed about **50 dives in a drysuit with double tanks**, including 30 dives in **16–18°C** cold water wearing a thick undergarment.
 
 This training focused on addressing the three most urgent challenges I faced at the time:
 
->[!Challenges]
+> [!Challenges]
 >
->**First**, **independently assembling and donning my gear.** Unexpected right? Before this, even as a professional underwater photographer, I hadn’t developed this basic diver skill. Honestly, I’ve made it this far alive only thanks to the help of kind human beings and sheer luck.
+> **First**, **independently assembling and donning my gear.** Unexpected right? Before this, even as a professional underwater photographer, I hadn’t developed this basic diver skill. Honestly, I’ve made it this far alive only thanks to the help of kind human beings and sheer luck.
 >
->**Second**, **inflating and deflating the drysuit**, and maintaining stable ascents and descents. This completely eliminated my fear of drysuit. I used to be terrified that any inflation would send me shooting to the surface.
+> **Second**, **inflating and deflating the drysuit**, and maintaining stable ascents and descents. This completely eliminated my fear of drysuit. I used to be terrified that any inflation would send me shooting to the surface.
 >
->**Third**, **performing fine tasks while wearing thick dry gloves**, such as handling my camera.
+> **Third**, **performing fine tasks while wearing thick dry gloves**, such as handling my camera.
 
 But in reality, all this preparation was still far from enough. Diving in **16–18°C** water as a practice ground for extreme Antarctic conditions is simply on a completely different level. It can’t simulate the hypothermia risk or potential equipment failures you might face in true polar waters.
 
@@ -205,9 +202,9 @@ Although the **GUE Doubles Primer** isn’t directly related to polar diving, it
   <figcaption>First time carrying twin steel tanks! The weight of the whole setup is around 50kg! It is literally crushing me!</figcaption>
 </figure>
 
-Polar diving uses a single tank, but with a special **H-valve** setup—one tank topped with two independent outlets, allowing two separate regulators to be connected at the same time. 
+Polar diving uses a single tank, but with a special **H-valve** setup—one tank topped with two independent outlets, allowing two separate regulators to be connected at the same time.
 
-**Why two sets of regulators?** 
+**Why two sets of regulators?**
 
 Because in Antarctic waters, the first stage can freeze, leak, or trigger a freeflow due to the extreme cold. Having two regulators means you have a backup: if one first stage fails, you can shut it off, switch to the other system, and safely end the dive.
 
@@ -223,16 +220,16 @@ In short, my experience with doubles diving allowed me to adapt seamlessly to th
 
 ## My Biggest Regret - Navigation
 
->In Southeast Asia, you follow your dive guide's fins like a living compass. 
->In Antarctica, you gotta find your own ways.
+> In Southeast Asia, you follow your dive guide's fins like a living compass.
+> In Antarctica, you gotta find your own ways.
 
 Before entering the water, the guide might outline a general area, say, circling a specific iceberg—and emphasize staying close to the ice face during descent, as it could be your sole landmark below. If you fail to fix its position firmly in your eyes, the instant it vanishes from sight, your world collapses into an endless, undifferentiated wash of gray-blue.
 
 Once we arrived at a wreck dive site, a ship half submerged, half exposed, grounded in place. Before entering the water, we could clearly see its position and orientation. It was right there, less than 20 meters away. My buddy and I even double-checked on the surface:“See it? When we go down, we’ll just head straight for it.”
 
-Once we were in the water, visibility dropped to just two or three meters. 
+Once we were in the water, visibility dropped to just two or three meters.
 
-We swam toward the wreck by instinct. The distance was short, but we kept swimming for what felt like ages, and still couldn’t make out the outline of the ship. When we surfaced, **we realized we’d completely gone in the wrong direction!** Luckily, we hadn’t strayed far and were still within the same general area as the main group, so safety wasn’t an issue. But we’d just been floundering around underwater and seeing nothing! 
+We swam toward the wreck by instinct. The distance was short, but we kept swimming for what felt like ages, and still couldn’t make out the outline of the ship. When we surfaced, **we realized we’d completely gone in the wrong direction!** Luckily, we hadn’t strayed far and were still within the same general area as the main group, so safety wasn’t an issue. But we’d just been floundering around underwater and seeing nothing!
 
 That bizarre move of sprinting in the exact opposite direction became an unforgettable humiliation. If I’d had even a little bit of navigation skills, I wouldn’t have left such a foolish regret in a place I’ll probably only visit once in my life.
 
@@ -246,6 +243,7 @@ The cruise company only provided **12L steel tanks (with H-valve, filled with ai
 </figure>
 
 (My own comprehensive list of equipment is attached in the end.)
+
 ## 1. Choosing and Using Your Regulators
 
 Antarctic water temperatures usually stay **below 4°C**, and can drop as low as **–1°C**. The most common regulator failure is internal freezing, which causes continuous leaking. Once a **freeflow** occurs, gas sprays out like a broken faucet. **A standard 12L tank at 200 bar can run dry in just 2 to 5 minutes.**
@@ -280,14 +278,15 @@ In contrast, an open-design first stage has its internal parts directly exposed 
 
 Not really. **EN250A** isn’t just a low-temperature test. It’s an all-out stress test performed at 4°C, including heavy breathing, continuous high-pressure gas supply, and other scenarios that maximize freezing risk. Think of it as the engineering equivalent of a pass/fail line: the test deliberately creates the worst-case scenario, whereas in real dives, as long as you’re careful, don’t gasp at the surface or hyperventilate underwater, you’ll be fine.
 
-So even in 0°C water, a regulator certified EN250A at 4°C can be sufficient and safe for use. 
+So even in 0°C water, a regulator certified EN250A at 4°C can be sufficient and safe for use.
 
 Look for the **EN250A mark!** It’s usually stamped on the first stage’s metal body and included in the manual.
 
->[!Know the right mark:]
->- EN250 – Passed the basic test, but not a cold-water test.  
->- EN250A >10°C – Only suitable for water above 10°C.
->- **EN250A** – This is the one we need.
+> [!Know the right mark:]
+>
+> - EN250 – Passed the basic test, but not a cold-water test.
+> - EN250A >10°C – Only suitable for water above 10°C.
+> - **EN250A** – This is the one we need.
 
 #### Second Stages
 
@@ -298,14 +297,14 @@ Look for the **EN250A mark!** It’s usually stamped on the first stage’s meta
 **2) The same goes for your backup**
 
  In many divers’ setups, the primary second stage is carefully chosen for reliability, while the backup is often a cheap plastic one just for show. In Antarctica, your backup second stage truly needs to perform when it matters. It shouldn’t just work, but also must be **equally reliable as your primary regulator**.
- 
-So, if your first stage has a **DIN connection, is fully sealed, and carries the EN250A certification**, and **your second stage has a** **full metal casing**, we’ve already minimized the chance of hardware failure. 
+
+So, if your first stage has a **DIN connection, is fully sealed, and carries the EN250A certification**, and **your second stage has a** **full metal casing**, we’ve already minimized the chance of hardware failure.
 
 Next, it’s all about further reducing risk through proper configuration and careful operation.
 
 ### Redundant Setup
 
-As mentioned earlier in the skills section, polar dives usually provide tanks equipped with an **H-valve**. An H-valve has two completely independent outlets, each of which can be connected to a full regulator system. If one supply line freezes and starts leaking, you can shut off that side, and the other line remains unaffected. 
+As mentioned earlier in the skills section, polar dives usually provide tanks equipped with an **H-valve**. An H-valve has two completely independent outlets, each of which can be connected to a full regulator system. If one supply line freezes and starts leaking, you can shut off that side, and the other line remains unaffected.
 
 <figure>
   <img src="Images/H_Valve.jpg" alt="H Valve">
@@ -316,7 +315,7 @@ In tropical recreational diving, the backup second stage is mainly used to share
 
 However, **in polar diving, the backup second stage is primarily intended as a personal air source in case your own regulator fails.** If a leak occurs and your backup second stage is still connected to the same first stage, switching won’t help, cuz you’ve already lost that supply line. Therefore, **in polar diving, the backup second stage must come from a completely independent air path.**
 
-So we need **two fully independent regulator systems**! Not just two second stages like in tropical recreational diving, but **two first stages as well**. 
+So we need **two fully independent regulator systems**! Not just two second stages like in tropical recreational diving, but **two first stages as well**.
 
 The question then becomes: how should the hoses of these two regulator systems be routed to minimize entanglement and allow a smooth, effortless switch to the backup air supply in case of failure?
 
@@ -350,15 +349,15 @@ Our proper procedure is: take a quick test breath on the surface to make sure bo
 You might ask: **“If Antarctic water can be as low as –1°C, near freezing, why can we breathe and purge normally underwater?”**
 (Curious minds add so much more work for me!)
 
->**Attention!** Regulator freezing doesn’t depend on the absolute temperature outside. It depends on the **local temperature inside the regulator**.
+> **Attention!** Regulator freezing doesn’t depend on the absolute temperature outside. It depends on the **local temperature inside the regulator**.
 
 Inhaling and purging both involve rapid expansion of gas within the regulator. The highly compressed gas in the tank passes through the first and second stages, transforming into breathable air. During this expansion, the gas does work and consumes heat, **causing the local temperature inside the regulator to drop far below the freezing point.** If external heat can’t replenish it quickly enough, this cold pocket persists, and ice forms.
 
 This risk is especially high at the surface, because air has low thermal conductivity and heat capacity, so heat replenishes very slowly. So if you inhale or purge and then exhale warm, moist air, the regulator can freeze.
 
-Underwater, it’s a completely different story. **Water has much higher thermal conductivity and heat capacity than air.** Even if the seawater is near freezing, it can quickly supply heat to the regulator whenever rapid gas expansion causes a local temperature drop. 
+Underwater, it’s a completely different story. **Water has much higher thermal conductivity and heat capacity than air.** Even if the seawater is near freezing, it can quickly supply heat to the regulator whenever rapid gas expansion causes a local temperature drop.
 
->In other words, when the regulator is immersed in water, **the surrounding water helps counteract the extreme cooling from gas expansion**, making it much less likely to reach freezing.
+> In other words, when the regulator is immersed in water, **the surrounding water helps counteract the extreme cooling from gas expansion**, making it much less likely to reach freezing.
 
 **3）Do NOT reduce the second-stage breathing resistance too much**
 
@@ -372,13 +371,13 @@ So by this point, you are already using the most cold-resistant regulators, had 
 
 All the efforts, carefully choosing the right regulators, setting up two complete independent systems, laying out the hoses in the most ergonomic and scientific way, and strictly following all the do’s-and-don’ts, was for one simple goal:
 
->Don’t freeze. 
->Don’t freeze. 
->**Don’t freeze.**
+> Don’t freeze.
+> Don’t freeze.
+> **Don’t freeze.**
 
 Let me put on my victory declaration：
 
->**Not a single freeflow occurred during my entire Antarctic trip!**
+> **Not a single freeflow occurred during my entire Antarctic trip!**
 
 ## 2. How to Stay Warm from Head to Toe
 
@@ -403,7 +402,7 @@ Most polar divers opt for **trilaminate drysuits**, though a few still use **neo
 
 **Neoprene** suits are like sponge-rubber material, which provides some inherent insulation and better hydrodynamics. But neoprene compresses under depth, reducing insulation, and you can’t add thick undergarments inside to customize warmth. If you insist on neoprene for polar diving, go for a suit **6.5mm or thicker.**
 
-On my trip, about **90% of divers wore trilaminate drysuits**, and 10% wore neoprene. 
+On my trip, about **90% of divers wore trilaminate drysuits**, and 10% wore neoprene.
 
 I’ll assume you’re wearing a trilaminate suit too, and next we’ll look at what to layer underneath.
 
@@ -419,10 +418,11 @@ The drysuit is essentially just a waterproof shell. **The real warmth comes from
 
 The key metric for an undergarment’s warmth is its **fiber density (weight in g/m²)**. Generally, the higher the density, the lower the temperature it’s suitable for.
 
->[!For example:]
->- 200 g/m² – temperate waters around 20°C
->- 300 g/m² – cold waters around 15°C
->- **400 g/m² – waters below 10°C**  
+> [!For example:]
+>
+> - 200 g/m² – temperate waters around 20°C
+> - 300 g/m² – cold waters around 15°C
+> - **400 g/m² – waters below 10°C**
 
 For the Antarctic, we simply go for undergarments with **400 g/m²** or more. Most undergarments clearly indicate material and density on the label, for example, typical cold-water materials like “Thinsulate 400 g/m²” or “PrimaLoft Gold 400 g.” Some products even incorporate the density into their name, such as Santi’s BZ400 or Navyfel’s B420.
 
@@ -434,11 +434,12 @@ The base layer isn’t just there to separate your skin from the thick undergarm
 
 That’s why the base layer **must be quick-drying and moisture-wicking**. It should fit snugly without being restrictive, so that sweat can be pulled away from the skin by the fibers. The easiest choice is a thin synthetic material, such as polyester or Polartec. **Many professional ski brands’ base layers work perfectly for diving.** The ideal fit is thin and close to the body, with a weight under 150g. Don’t worry about it being too thin. The base layer isn’t meant for warmth. Wearing two layers can actually hinder moisture management, and in addition, the drysuit has limited space. Too thick a base layer will compress your undergarment, your main insulating layer and reduce overall warmth.
 
->**Never choose cotton!** Cotton can absorb up to 25 times its own weight in water. Wearing cotton in Antarctica is basically a self-destruct mode. It’s far worse than wearing nothing.
+> **Never choose cotton!** Cotton can absorb up to 25 times its own weight in water. Wearing cotton in Antarctica is basically a self-destruct mode. It’s far worse than wearing nothing.
 
 ### Keeping Your Head, Hands, and Feet Warm
 
 In fact, the parts of the body that usually get cold first are the extremities: **the head, hands, and feet**. Sometimes your core feels warm and comfortable, but your fingers are already stinging or numb. So, besides properly keeping your core warm with the three-layer system, you also need to pay special attention to protecting your head, hands, and feet.
+
 #### Head
 
 For the hood, we actually used a standard Neoprene hood—the same material as in tropical diving—but the recommended thickness is **8–10mm.** I couldn’t find one this thick, so I just layered two hoods (6mm + 7mm = 13mm). My head stayed completely warm with no discomfort.
@@ -466,7 +467,7 @@ A few divers on our trip used full-face masks, which also protect the lips. The 
 
 #### Hands
 
-For the hands, we wear dry gloves with liner gloves underneath. The outer layer is waterproof and sealed, while the inner liner provides warmth. **Don’t even consider using wet gloves. They won’t protect against 0°C seawater, no matter how thick.** 
+For the hands, we wear dry gloves with liner gloves underneath. The outer layer is waterproof and sealed, while the inner liner provides warmth. **Don’t even consider using wet gloves. They won’t protect against 0°C seawater, no matter how thick.**
 
 <figure>
   <img src="Images/DryGloves.jpg" alt="Dry Gloves">
@@ -493,9 +494,7 @@ What am I supposed to do now?
 At this point, you have to rely on electrically heated gear, such as:
 
 - **Full-body heated undergarments** (e.g., Santi BZ420 Heated), which can warm the entire body except hands and feet.
-
 - **Heated vests**, which focus on the core area.
-
 - **Separate heated gloves or socks**, providing extra warmth to the most vulnerable extremities.
 
 All of these work on the same principle: embedded resistive wires powered by fully waterproof external batteries.
@@ -505,21 +504,19 @@ All of these work on the same principle: embedded resistive wires powered by ful
 #### How to Put On Heated Systems
 
 - Heated undergarment set: These are undergarments with built-in heating. Wear them as your mid-layer and simply route the cables through the drysuit’s chest valve to connect to the external battery.
-
 - Heated vest: Wear this on top of your base layer but under your mid-layer, **ensuring your normal layering is intact**.
-
 - Heated gloves: Can be worn directly on your hands without extra liners. Note that heated gloves are usually much thicker than standard liners, so you may need a larger size dry glove to accommodate them.
 
->**Important:** Heated gear is only **supplemental warmth** and should not replace proper insulation (unless it’s a full-body heated undergarment like the Santi BZ420x Heated). For example, wearing a 300g undergarment (suitable for ~15°C water) plus a heated vest is **not sufficient** for polar diving. Electric heating alone cannot offset the rapid heat loss to near-freezing water. And if the battery dies, you lose your last layer of protection. Always ensure your **non-heated insulation is reliable** before relying on electric heat.
+> **Important:** Heated gear is only **supplemental warmth** and should not replace proper insulation (unless it’s a full-body heated undergarment like the Santi BZ420x Heated). For example, wearing a 300g undergarment (suitable for ~15°C water) plus a heated vest is **not sufficient** for polar diving. Electric heating alone cannot offset the rapid heat loss to near-freezing water. And if the battery dies, you lose your last layer of protection. Always ensure your **non-heated insulation is reliable** before relying on electric heat.
 
 #### How to Use Heated Systems
 
 The controls for electric-heated gear are usually on the external battery itself, with High/Medium/Low power settings and LED lights showing the remaining battery level.
 
->[!TIPS]
->- **Don’t turn it on when you don't feel the cold yet.** Battery life is limited. If it dies when you really need it, you’ll regret it. Usually, it’s best to turn it on halfway through the dive, near the end, or when back on the zodiac facing the icy wind. That moment, you’ll feel like the warmest person alive.
+> [!TIPS]
 >
->- **You could use it as a backup in case of drysuit flooding.** Even if your drysuit takes on some water, the electric heating will keep generating warmth to counteract heat loss to the sea. It’s fully waterproof, so there’s no risk of electric shock, but if the leak is severe, **ascend immediately**. Don’t rely on electric heating to tough it out.
+> - **Don’t turn it on when you don't feel the cold yet.** Battery life is limited. If it dies when you really need it, you’ll regret it. Usually, it’s best to turn it on halfway through the dive, near the end, or when back on the zodiac facing the icy wind. That moment, you’ll feel like the warmest person alive.
+> - **You could use it as a backup in case of drysuit flooding.** Even if your drysuit takes on some water, the electric heating will keep generating warmth to counteract heat loss to the sea. It’s fully waterproof, so there’s no risk of electric shock, but if the leak is severe, **ascend immediately**. Don’t rely on electric heating to tough it out.
 
 #### Do I Need Heated Systems?
 
@@ -534,19 +531,12 @@ From what I observed, about half of the divers on our cruise brought electric he
 **So, a complete “polar diving magic suit” should consist of the following elements:**
 
 - **Outer layer** – drysuit (Trilaminate material)
-    
 - **Middle layer** – undergarment of 400 g/m² or more
-    
 - **Base layer** – thin, snug, moisture-wicking layer (ski-specific gear works well)
-    
 - **Head** – 8–10 mm hood
-    
 - **Hands** – dry gloves + dive-brand glove liners
-    
 - **Feet** – regular sports socks + thickest dive-brand sock liners + (if using a drysuit with integrated socks) drysuit boots
-    
 - **Full-face mask** – I didn’t bring one and don’t recommend it
-    
 - **Electric heating vest/undersuit** – I didn’t use it; optional
 
 With this magic suit, I spent 7 days diving in Antarctica, staying lively and energetic the entire time, without even the slightest hint of a cold!
@@ -562,11 +552,11 @@ With this magic suit, I spent 7 days diving in Antarctica, staying lively and en
 
 We’re wearing the thickest undergarments and only carrying a single cylinder, so we need a **lot of weight** to sink properly.
 
->Take me as an example: 
-Height: 160cm  
-Weight: 45kg. 
-Backplate: 3kg
-Extra weight needed: **12kg**
+> Take me as an example:
+> Height: 160cm
+> Weight: 45kg.
+> Backplate: 3kg
+> Extra weight needed: **12kg**
 
 So where should all this 12kg weight go?
 
@@ -580,13 +570,14 @@ Second, the weight pockets on a BC simply cannot hold that many blocks.
 
 When you get back to the surface, the zodiac **has no ladder, no platform**. You’re literally pulled up by the guide’s raw strength.
 
->[!The standard procedure goes like:]
->1. The diver swims to the edge of the zodiac. 
->2. Hand up their camera.
->3. **Remove the weights and pass them up separately.**
->4. Slowly take off the backplate while still in the water.
->5. You support the cylinder underwater while the guide lifts from above.
->6. Grab the rope along the zodiac’s edge with both hands and, like doing a pull-up, give it all you’ve got to lift yourself up, while the guide simultaneously hauls you into the boat.
+> [!The standard procedure goes like:]
+>
+> 1. The diver swims to the edge of the zodiac.
+> 2. Hand up their camera.
+> 3. **Remove the weights and pass them up separately.**
+> 4. Slowly take off the backplate while still in the water.
+> 5. You support the cylinder underwater while the guide lifts from above.
+> 6. Grab the rope along the zodiac’s edge with both hands and, like doing a pull-up, give it all you’ve got to lift yourself up, while the guide simultaneously hauls you into the boat.
 
 If your weights are integrated into your BC, the difficulty of this whole process increases dramatically. You **cannot remove the weights separately in step 3**, which means in steps 4 and 5 both you and the guide have to struggle a lot more.
 
@@ -594,10 +585,10 @@ So in the end, I reluctantly used a **weight belt**, but I really didn’t like 
 
 A much better solution is a **weight harness**, a weight system with straps on a backpack. About half the divers on our trip brought one. I feel that only experienced cold-water divers really understand its necessity. I **deeply regret not bringing one**. The harness is much more stable: it secures the weights to your torso, so they don’t shift side to side or up and down like a weight belt. It’s also much easier to remove. When you reach the edge of the zodiac, you can simply unclip a few buckles and hand the entire weight block up directly. If I ever have the chance to dive in the polar regions again, I will definitely bring one.
 
->**My final 12kg weight distribution:**
+> **My final 12kg weight distribution:**
 >
->- **4kg (2kg × 2)**: placed in the left and right pockets of the drysuit
->- **8kg (2kg × 4)**: threaded onto the waist weight belt
+> - **4kg (2kg × 2)**: placed in the left and right pockets of the drysuit
+> - **8kg (2kg × 4)**: threaded onto the waist weight belt
 
 ## 4. How to Deal With Low Visibility
 
@@ -626,23 +617,16 @@ Antarctica is an isolated location, so anything that’s prone to breaking or ge
 #### Essential Backups
 
 - **Drysuit neck seal.** My own neck seal didn’t get damaged, but several divers tore theirs accidentally.
-
 - **BC exhaust valve.** The small round cap at the bottom is easy to overlook. I forgot mine! During my check dive in Ushuaia, I tugged it hard and it popped off. With dry gloves, I didn’t feel a thing, and it sank to the seabed! Luckily, my superhuman teammates helped me retrieve it. If I hadn’t found it, my Antarctic diving trip would have been ruined. Later I realized you can temporarily fit an elephant trunk exhaust valve onto the BC, but it’s not an optimal solution. So to avoid the same tragedy, it’s better to prepare a spare BC exhaust valve.
-
 - **400g undergarment.** If the drysuit floods severely, one undergarment won’t dry in a day, and you can’t dive the next day. Bring an extra to avoid missing any dives.
-
 - **One high-pressure hose and one low-pressure hose.** Hoses that have been used too long can crack in the Antarctic.
-
 - **Dive computer.** Life-critical equipment. Having a spare lets you sleep more peacefully.
 
 #### Repair Kit
 
 - **Wrench:** For assembling and disassembling regulator hoses.
-
 - **Lubricant:** For assembling neck seals and dry gloves.
-
 - **O-Ring set:** My first-stage O-Ring once fell off, and I calmly replaced it with a spare.
-
 - **Aqua Seal:** Magical glue for emergency patches on the drysuit! Apply it wherever there’s a hole, let it fully air-dry within a day, and it will be as good as new.
 
 ## 6. Only bring equipment you are absolutely familiar with
@@ -659,10 +643,10 @@ I have no interest in pushing my limits. Normally, running a few steps tires me 
   <img src="Images/Surface_Antarctica2.jpg" alt="">
 </figure>
 
-Even as my sense of touch became dull, I had to execute precise control over my equipment. Inside my Michelin-tire-like suit, I had to wrestle with rapidly shifting buoyancy. In waters that forgive no errors, I had to stay composed. 
+Even as my sense of touch became dull, I had to execute precise control over my equipment. Inside my Michelin-tire-like suit, I had to wrestle with rapidly shifting buoyancy. In waters that forgive no errors, I had to stay composed.
 
 **Only when my muscles instinctively commanded this mechanical ensemble, did my mind finally break free, and my focus could wander.**
-  
+
 Then, I saw a kind of blue in the water I had never seen before. Sunlight passed through the ice, refracting into distinct layers of pale blue. It wasn’t the deep richness of tropical seas, but a clarity like liquid moonlight. I realized that the scenes I had previously only seen through ROVs, also existed here in the shallow Antarctic waters. Giant spider crabs and isopods, dense echinoderms, carpeted the seafloor. The near-freezing temperatures hadn’t slowed the pace of this world. On the contrary, some isopods and gastropods were even more active than their tropical relatives. I drifted over slowly, and a dozen isopods leapt out of the seaweed, like grasshoppers startled in a meadow.
 
 **Scuba diving is a very quiet sport.** Diving in Antarctica, I never once felt that adrenaline-fueled rush of pushing past my limits. What I felt instead, was a simple, steady joy to be a calm observer in this icy underwater world.
@@ -673,62 +657,44 @@ I came, and I saw.
   <img src="Images/Pteropod.jpg" alt="Sea Butterfly">
   <figcaption>A sea butterfly I found around an iceberg!</figcaption>
 </figure>
-# Appendix I: Antarctic Diving Gear Checklist 
+
+
+# Appendix I: Antarctic Diving Gear Checklist
 
 ### Essentials
 
-- Trilaminate Drysuit 
-    
+- Trilaminate Drysuit
 - Drysuit gloves
-    
 - Thick undergarment (>400g/m3)
-    
 - Very thick glove liners
-    
 - Very thick sock liners
-    
 - Dive computer x 2
-    
 - Negative buoyancy jet fins
-    
 - Mask × 2
-    
 - SMB + reel
-    
 - Hood 8-10mm
-    
 - BCD
-    
 - Fully environmentally sealed first stage (DIN connection, with EN250A mark)  × 2
-    
 - Fully metallic Second stage × 2
-    
 - Pressure gauge
-    
 - All hoses required for the regulator
 
 ### Spare Parts
 
 - Wrench – for assembling/disassembling regulator hoses
-    
 - Lubricant – needed when assembling neck seals and dry gloves
-    
 - First stage O-Ring
-    
 - Spare BCD exhaust valve
-    
 - Spare neck seal
 
 ### Not essential but strongly recommended personally
 
 - Weight harness
-  
 - Technical diving primary light
 
 ### Optional
 
 - Heated vest/undergarment + external battery
-    
 - Full-face mask
 
 # Appendix II My Equipment List
@@ -765,9 +731,7 @@ I came, and I saw.
 
 **Hoses:** Drysuit hose, BCD hose, high-pressure hose, long hose (primary second stage), short hose (backup second stage), short hose necklace
 
->[!Warning!]
->The first-stage I use, the **Scubapro Mk25**, is actually not environmentally sealed and, therefore in theory, not suitable for polar use. Previously, I only knew that its performance was top-tier, so I naturally assumed it would be appropriate for polar diving as well. It wasn’t until I started writing this guide that I realized the Mk25 has this inherent drawback. Although my regulator did not experience any leaks or failures during this trip, I still recommend that divers choose a fully sealed first stage, such as the Mk19.
+> [!Warning!]
+> The first-stage I use, the **Scubapro Mk25**, is actually not environmentally sealed and, therefore in theory, not suitable for polar use. Previously, I only knew that its performance was top-tier, so I naturally assumed it would be appropriate for polar diving as well. It wasn’t until I started writing this guide that I realized the Mk25 has this inherent drawback. Although my regulator did not experience any leaks or failures during this trip, I still recommend that divers choose a fully sealed first stage, such as the Mk19.
 
-# Appendix III My Diving Configuration 
-
-
+# Appendix III My Diving Configuration
