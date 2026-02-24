@@ -455,46 +455,45 @@
     }
     .side-decor {
       position: fixed;
-      top: 6rem;
-      bottom: 0.45rem;
-      width: 188px;
+      top: 5.8rem;
+      bottom: 0.35rem;
+      width: 228px;
       display: none;
       pointer-events: none;
       z-index: 30;
-      overflow: hidden;
     }
-    .side-decor.left { left: 0.5rem; }
-    .side-decor.right { right: 0.5rem; }
+    .side-decor.left { left: 1.05rem; }
+    .side-decor.right { right: 1.05rem; }
     .side-decor img {
       position: absolute;
       width: auto;
       height: var(--h);
-      max-width: 95%;
+      max-width: 88%;
       top: var(--y);
       left: var(--x);
       object-fit: contain;
       object-position: center;
       border-radius: 0;
       background: transparent;
-      opacity: 0.98;
+      opacity: 0.99;
       transform: rotate(var(--r));
       transform-origin: center center;
       mix-blend-mode: screen;
       filter: brightness(1.02) contrast(1.12) saturate(0.9);
     }
-    .side-decor.left .c1 { --y: 1%; --x: 6%; --h: 18vh; --r: -6deg; }
-    .side-decor.left .c2 { --y: 22%; --x: 35%; --h: 15vh; --r: 5deg; }
-    .side-decor.left .c3 { --y: 40%; --x: 8%; --h: 19vh; --r: -3deg; }
-    .side-decor.left .c4 { --y: 63%; --x: 39%; --h: 14vh; --r: 4deg; }
-    .side-decor.left .c5 { --y: 80%; --x: 12%; --h: 16vh; --r: -5deg; }
-    .side-decor.right .c1 { --y: 2%; --x: 28%; --h: 17vh; --r: 6deg; }
-    .side-decor.right .c2 { --y: 21%; --x: 4%; --h: 15vh; --r: -4deg; }
-    .side-decor.right .c3 { --y: 41%; --x: 30%; --h: 18vh; --r: 3deg; }
-    .side-decor.right .c4 { --y: 63%; --x: 2%; --h: 14vh; --r: -5deg; }
-    .side-decor.right .c5 { --y: 80%; --x: 24%; --h: 16vh; --r: 4deg; }
+    .side-decor.left .c1 { --y: 0.5%; --x: 7%; --h: 23vh; --r: -10deg; }
+    .side-decor.left .c2 { --y: 20%; --x: 21%; --h: 20vh; --r: 8deg; }
+    .side-decor.left .c3 { --y: 39%; --x: 9%; --h: 24vh; --r: -7deg; }
+    .side-decor.left .c4 { --y: 61%; --x: 24%; --h: 19vh; --r: 9deg; }
+    .side-decor.left .c5 { --y: 79%; --x: 12%; --h: 21vh; --r: -8deg; }
+    .side-decor.right .c1 { --y: 1%; --x: 15%; --h: 22vh; --r: 9deg; }
+    .side-decor.right .c2 { --y: 20%; --x: 4%; --h: 20vh; --r: -8deg; }
+    .side-decor.right .c3 { --y: 40%; --x: 16%; --h: 23vh; --r: 7deg; }
+    .side-decor.right .c4 { --y: 61%; --x: 5%; --h: 19vh; --r: -9deg; }
+    .side-decor.right .c5 { --y: 79%; --x: 18%; --h: 21vh; --r: 8deg; }
     @media (min-width: 1700px) {
       .side-decor {
-        width: 220px;
+        width: 254px;
       }
     }
     @media (min-width: 1360px) {
