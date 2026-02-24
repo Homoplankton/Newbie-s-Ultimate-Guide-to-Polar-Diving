@@ -1,3 +1,9 @@
+---
+title: From 27°C to -1°C: A Tropical Newbie's Ultimate Guide to Polar Diving
+subtitle: Gear, skills, and hard-won lessons to survive your first dive in Antarctica
+date: 2026-01-30
+author: Jialing Cai
+---
 # Introduction
 
 Hello everyone, I'm **Jialing Cai**, a blackwater photographer from **Chongqing, China**.
@@ -657,7 +663,6 @@ I came, and I saw.
   <img src="Images/Pteropod.jpg" alt="Sea Butterfly">
   <figcaption>A sea butterfly I found around an iceberg!</figcaption>
 </figure>
-
 
 # Appendix I: Antarctic Diving Gear Checklist
 
