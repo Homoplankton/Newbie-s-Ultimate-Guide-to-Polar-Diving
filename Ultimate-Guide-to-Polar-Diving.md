@@ -477,7 +477,7 @@ For the hands, we wear dry gloves with liner gloves underneath. The outer layer 
 
 <figure>
   <img src="Images/DryGloves.jpg" alt="Dry Gloves">
-  <figcaption>I wsih my dry gloves were yellow just to match my overall color theme lol</figcaption>
+  <figcaption>I wish my dry gloves were yellow just to match my overall color theme lol</figcaption>
 </figure>
 
 Dry gloves are a bit like the thick rubber waterproof gloves used by plumbers. The connection method between drysuits and gloves varies by brand, but once you get used to it, the differences don’t matter much. **The most important thing is whether the seal is secure.** My drysuit uses a removable wrist seal system. Before putting on the drysuit, you take the wrist seal off the sleeve, then align the rubber cuff of the dry glove with the seal ring on the suit and press it down bit by bit until fully fitted, creating a tight seal. For someone like me with clumsy hands, this takes patience, but the seal works perfectly. I never had a single leak.
