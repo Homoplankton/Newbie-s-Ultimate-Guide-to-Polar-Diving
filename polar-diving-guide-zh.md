@@ -705,5 +705,3 @@ GUE Doubles Primer + Performance Diver 课程
 - 一级头备用O-Ring
 - 备用的背飞排气阀
 - 备用领封
-
-# 附录 III 装备配置手绘示意图
