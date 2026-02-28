@@ -738,5 +738,3 @@ I came, and I saw.
 
 > [!Warning!]
 > The first-stage I use, the **Scubapro Mk25**, is actually not environmentally sealed and, therefore in theory, not suitable for polar use. Previously, I only knew that its performance was top-tier, so I naturally assumed it would be appropriate for polar diving as well. It wasn’t until I started writing this guide that I realized the Mk25 has this inherent drawback. Although my regulator did not experience any leaks or failures during this trip, I still recommend that divers choose a fully sealed first stage, such as the Mk19.
-
-# Appendix III My Diving Configuration
